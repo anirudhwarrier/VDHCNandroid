@@ -1,0 +1,3026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="drawerArrowStyle"/>
+    <attr format="dimension" name="height"/>
+    <attr format="boolean" name="isLightTheme"/>
+    <attr format="string" name="title"/>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="Abbey">#4C4F56</color>
+    <color name="Acadia">#1B1404</color>
+    <color name="Acapulco">#7CB0A1</color>
+    <color name="AeroBlue">#C9FFE5</color>
+    <color name="Affair">#714693</color>
+    <color name="Akaroa">#D4C4A8</color>
+    <color name="Alabaster">#FAFAFA</color>
+    <color name="AlbescentWhite">#F5E9D3</color>
+    <color name="AlgaeGreen">#93DFB8</color>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="AlizarinCrimson">#E32636</color>
+    <color name="Allports">#0076A3</color>
+    <color name="Almond">#EED9C4</color>
+    <color name="AlmondFrost">#907B71</color>
+    <color name="Alpine">#AF8F2C</color>
+    <color name="Alto">#DBDBDB</color>
+    <color name="Aluminium">#A9ACB6</color>
+    <color name="Amaranth">#E52B50</color>
+    <color name="Amazon">#3B7A57</color>
+    <color name="Amber">#FFBF00</color>
+    <color name="Americano">#87756E</color>
+    <color name="Amethyst">#9966CC</color>
+    <color name="AmethystSmoke">#A397B4</color>
+    <color name="Amour">#F9EAF3</color>
+    <color name="Amulet">#7B9F80</color>
+    <color name="Anakiwa">#9DE5FF</color>
+    <color name="AntiqueBrass">#C88A65</color>
+    <color name="AntiqueBronze">#704A07</color>
+    <color name="Anzac">#E0B646</color>
+    <color name="Apache">#DFBE6F</color>
+    <color name="Apple">#4FA83D</color>
+    <color name="AppleBlossom">#AF4D43</color>
+    <color name="AppleGreen">#E2F3EC</color>
+    <color name="Apricot">#EB9373</color>
+    <color name="ApricotPeach">#FBCEB1</color>
+    <color name="ApricotWhite">#FFFEEC</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="AquaDeep">#014B43</color>
+    <color name="AquaForest">#5FA777</color>
+    <color name="AquaHaze">#EDF5F5</color>
+    <color name="AquaIsland">#A1DAD7</color>
+    <color name="AquaSpring">#EAF9F5</color>
+    <color name="AquaSqueeze">#E8F5F2</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="AquamarineBlue">#71D9E2</color>
+    <color name="Arapawa">#110C6C</color>
+    <color name="Armadillo">#433E37</color>
+    <color name="Arrowtown">#948771</color>
+    <color name="Ash">#C6C3B5</color>
+    <color name="Asparagus">#7BA05B</color>
+    <color name="Asphalt">#130A06</color>
+    <color name="Astra">#FAEAB9</color>
+    <color name="Astral">#327DA0</color>
+    <color name="Astronaut">#283A77</color>
+    <color name="AstronautBlue">#013E62</color>
+    <color name="AthensGray">#EEF0F3</color>
+    <color name="AthsSpecial">#ECEBCE</color>
+    <color name="Atlantis">#97CD2D</color>
+    <color name="Atoll">#0A6F75</color>
+    <color name="AtomicTangerine">#FF9966</color>
+    <color name="AuChico">#97605D</color>
+    <color name="Aubergine">#3B0910</color>
+    <color name="AustralianMint">#F5FFBE</color>
+    <color name="Avocado">#888D65</color>
+    <color name="Axolotl">#4E6649</color>
+    <color name="Azalea">#F7C8DA</color>
+    <color name="Aztec">#0D1C19</color>
+    <color name="Azure">#315BA1</color>
+    <color name="AzureRadiance">#007FFF</color>
+    <color name="BabyBlue">#E0FFFF</color>
+    <color name="BahamaBlue">#026395</color>
+    <color name="Bahia">#A5CB0C</color>
+    <color name="BajaWhite">#FFF8D1</color>
+    <color name="BaliHai">#859FAF</color>
+    <color name="BalticSea">#2A2630</color>
+    <color name="Bamboo">#DA6304</color>
+    <color name="BananaMania">#FBE7B2</color>
+    <color name="Bandicoot">#858470</color>
+    <color name="Barberry">#DED717</color>
+    <color name="BarleyCorn">#A68B5B</color>
+    <color name="BarleyWhite">#FFF4CE</color>
+    <color name="Barossa">#44012D</color>
+    <color name="Bastille">#292130</color>
+    <color name="BattleshipGray">#828F72</color>
+    <color name="BayLeaf">#7DA98D</color>
+    <color name="BayofMany">#273A81</color>
+    <color name="Bazaar">#98777B</color>
+    <color name="Bean">#3D0C02</color>
+    <color name="BeautyBush">#EEC1BE</color>
+    <color name="Beaver">#926F5B</color>
+    <color name="Beeswax">#FEF2C7</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="Bermuda">#7DD8C6</color>
+    <color name="BermudaGray">#6B8BA2</color>
+    <color name="BerylGreen">#DEE5C0</color>
+    <color name="Bianca">#FCFBF3</color>
+    <color name="BigStone">#162A40</color>
+    <color name="Bilbao">#327C14</color>
+    <color name="BilobaFlower">#B2A1EA</color>
+    <color name="Birch">#373021</color>
+    <color name="BirdFlower">#D4CD16</color>
+    <color name="Biscay">#1B3162</color>
+    <color name="Bismark">#497183</color>
+    <color name="BisonHide">#C1B7A4</color>
+    <color name="Bistre">#3D2B1F</color>
+    <color name="Bitter">#868974</color>
+    <color name="BitterLemon">#CAE00D</color>
+    <color name="Bittersweet">#FE6F5E</color>
+    <color name="Bizarre">#EEDEDA</color>
+    <color name="Black">#000000</color>
+    <color name="BlackBean">#081910</color>
+    <color name="BlackForest">#0B1304</color>
+    <color name="BlackHaze">#F6F7F7</color>
+    <color name="BlackMarlin">#3E2C1C</color>
+    <color name="BlackOlive">#242E16</color>
+    <color name="BlackPearl">#041322</color>
+    <color name="BlackRock">#0D0332</color>
+    <color name="BlackRose">#67032D</color>
+    <color name="BlackRussian">#0A001C</color>
+    <color name="BlackSqueeze">#F2FAFA</color>
+    <color name="BlackWhite">#FFFEF6</color>
+    <color name="Blackberry">#4D0135</color>
+    <color name="Blackcurrant">#32293A</color>
+    <color name="BlazeOrange">#FF6600</color>
+    <color name="BleachWhite">#FEF3D8</color>
+    <color name="BleachedCedar">#2C2133</color>
+    <color name="BlizzardBlue">#A3E3ED</color>
+    <color name="Blossom">#DCB4BC</color>
+    <color name="Blue">#0000FF</color>
+    <color name="BlueBayoux">#496679</color>
+    <color name="BlueBell">#9999CC</color>
+    <color name="BlueChalk">#F1E9FF</color>
+    <color name="BlueCharcoal">#010D1A</color>
+    <color name="BlueChill">#0C8990</color>
+    <color name="BlueDiamond">#380474</color>
+    <color name="BlueDianne">#204852</color>
+    <color name="BlueGem">#2C0E8C</color>
+    <color name="BlueHaze">#BFBED8</color>
+    <color name="BlueLagoon">#017987</color>
+    <color name="BlueMarguerite">#7666C6</color>
+    <color name="BlueRibbon">#0066FF</color>
+    <color name="BlueRomance">#D2F6DE</color>
+    <color name="BlueSmoke">#748881</color>
+    <color name="BlueStone">#016162</color>
+    <color name="BlueViolet">#6456B7</color>
+    <color name="BlueWhale">#042E4C</color>
+    <color name="BlueZodiac">#13264D</color>
+    <color name="Blumine">#18587A</color>
+    <color name="Blush">#B44668</color>
+    <color name="BlushPink">#FF6FFF</color>
+    <color name="Bombay">#AFB1B8</color>
+    <color name="BonJour">#E5E0E1</color>
+    <color name="BondiBlue">#0095B6</color>
+    <color name="Bone">#E4D1C0</color>
+    <color name="Bordeaux">#5C0120</color>
+    <color name="Bossanova">#4E2A5A</color>
+    <color name="BostonBlue">#3B91B4</color>
+    <color name="Botticelli">#C7DDE5</color>
+    <color name="BottleGreen">#093624</color>
+    <color name="Boulder">#7A7A7A</color>
+    <color name="Bouquet">#AE809E</color>
+    <color name="Bourbon">#BA6F1E</color>
+    <color name="Bracken">#4A2A04</color>
+    <color name="Brandy">#DEC196</color>
+    <color name="BrandyPunch">#CD8429</color>
+    <color name="BrandyRose">#BB8983</color>
+    <color name="BreakerBay">#5DA19F</color>
+    <color name="BrickRed">#C62D42</color>
+    <color name="BridalHeath">#FFFAF4</color>
+    <color name="Bridesmaid">#FEF0EC</color>
+    <color name="BrightGray">#3C4151</color>
+    <color name="BrightGreen">#66FF00</color>
+    <color name="BrightRed">#B10000</color>
+    <color name="BrightSun">#FED33C</color>
+    <color name="BrightTurquoise">#08E8DE</color>
+    <color name="BrilliantRose">#F653A6</color>
+    <color name="BrinkPink">#FB607F</color>
+    <color name="Bronco">#ABA196</color>
+    <color name="Bronze">#3F2109</color>
+    <color name="BronzeOlive">#4E420C</color>
+    <color name="Bronzetone">#4D400F</color>
+    <color name="Broom">#FFEC13</color>
+    <color name="Brown">#964B00</color>
+    <color name="BrownBramble">#592804</color>
+    <color name="BrownDerby">#492615</color>
+    <color name="BrownPod">#401801</color>
+    <color name="BrownRust">#AF593E</color>
+    <color name="BrownTumbleweed">#37290E</color>
+    <color name="Bubbles">#E7FEFF</color>
+    <color name="Buccaneer">#622F30</color>
+    <color name="Bud">#A8AE9C</color>
+    <color name="BuddhaGold">#C1A004</color>
+    <color name="Buff">#F0DC82</color>
+    <color name="BulgarianRose">#480607</color>
+    <color name="BullShot">#864D1E</color>
+    <color name="Bunker">#0D1117</color>
+    <color name="Bunting">#151F4C</color>
+    <color name="Burgundy">#900020</color>
+    <color name="Burnham">#002E20</color>
+    <color name="BurningOrange">#FF7034</color>
+    <color name="BurningSand">#D99376</color>
+    <color name="BurntMaroon">#420303</color>
+    <color name="BurntOrange">#CC5500</color>
+    <color name="BurntSienna">#E97451</color>
+    <color name="BurntUmber">#8A3324</color>
+    <color name="Bush">#0D2E1C</color>
+    <color name="Buttercup">#F3AD16</color>
+    <color name="ButteredRum">#A1750D</color>
+    <color name="ButterflyBush">#624E9A</color>
+    <color name="Buttermilk">#FFF1B5</color>
+    <color name="ButteryWhite">#FFFCEA</color>
+    <color name="CabSav">#4D0A18</color>
+    <color name="Cabaret">#D94972</color>
+    <color name="CabbagePont">#3F4C3A</color>
+    <color name="Cactus">#587156</color>
+    <color name="CadetBlue">#A9B2C3</color>
+    <color name="Cadillac">#B04C6A</color>
+    <color name="CafeRoyale">#6F440C</color>
+    <color name="Calico">#E0C095</color>
+    <color name="California">#FE9D04</color>
+    <color name="Calypso">#31728D</color>
+    <color name="Camarone">#00581A</color>
+    <color name="Camelot">#893456</color>
+    <color name="Cameo">#D9B99B</color>
+    <color name="Camouflage">#3C3910</color>
+    <color name="CamouflageGreen">#78866B</color>
+    <color name="CanCan">#D591A4</color>
+    <color name="Canary">#F3FB62</color>
+    <color name="Candlelight">#FCD917</color>
+    <color name="CandyCorn">#FBEC5D</color>
+    <color name="CannonBlack">#251706</color>
+    <color name="CannonPink">#894367</color>
+    <color name="CapeCod">#3C4443</color>
+    <color name="CapeHoney">#FEE5AC</color>
+    <color name="CapePalliser">#A26645</color>
+    <color name="Caper">#DCEDB4</color>
+    <color name="Caramel">#FFDDAF</color>
+    <color name="Cararra">#EEEEE8</color>
+    <color name="CardinGreen">#01361C</color>
+    <color name="Cardinal">#C41E3A</color>
+    <color name="CardinalPink">#8C055E</color>
+    <color name="CareysPink">#D29EAA</color>
+    <color name="CaribbeanGreen">#00CC99</color>
+    <color name="Carissma">#EA88A8</color>
+    <color name="Carla">#F3FFD8</color>
+    <color name="Carmine">#960018</color>
+    <color name="CarnabyTan">#5C2E01</color>
+    <color name="Carnation">#F95A61</color>
+    <color name="CarnationPink">#FFA6C9</color>
+    <color name="CarouselPink">#F9E0ED</color>
+    <color name="CarrotOrange">#ED9121</color>
+    <color name="Casablanca">#F8B853</color>
+    <color name="Casal">#2F6168</color>
+    <color name="Cascade">#8BA9A5</color>
+    <color name="Cashmere">#E6BEA5</color>
+    <color name="Casper">#ADBED1</color>
+    <color name="Castro">#52001F</color>
+    <color name="CatalinaBlue">#062A78</color>
+    <color name="CatskillWhite">#EEF6F7</color>
+    <color name="CavernPink">#E3BEBE</color>
+    <color name="Cedar">#3E1C14</color>
+    <color name="CedarWoodFinish">#711A00</color>
+    <color name="Celadon">#ACE1AF</color>
+    <color name="Celery">#B8C25D</color>
+    <color name="Celeste">#D1D2CA</color>
+    <color name="Cello">#1E385B</color>
+    <color name="Celtic">#163222</color>
+    <color name="Cement">#8D7662</color>
+    <color name="Ceramic">#FCFFF9</color>
+    <color name="Cerise">#DA3287</color>
+    <color name="CeriseRed">#DE3163</color>
+    <color name="Cerulean">#02A4D3</color>
+    <color name="CeruleanBlue">#2A52BE</color>
+    <color name="Chablis">#FFF4F3</color>
+    <color name="ChaletGreen">#516E3D</color>
+    <color name="Chalky">#EED794</color>
+    <color name="Chambray">#354E8C</color>
+    <color name="Chamois">#EDDCB1</color>
+    <color name="Champagne">#FAECCC</color>
+    <color name="Chantilly">#F8C3DF</color>
+    <color name="Charade">#292937</color>
+    <color name="Chardon">#FFF3F1</color>
+    <color name="Chardonnay">#FFCD8C</color>
+    <color name="Charlotte">#BAEEF9</color>
+    <color name="Charm">#D47494</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="ChartreuseYellow">#DFFF00</color>
+    <color name="ChateauGreen">#40A860</color>
+    <color name="Chatelle">#BDB3C7</color>
+    <color name="ChathamsBlue">#175579</color>
+    <color name="ChelseaCucumber">#83AA5D</color>
+    <color name="ChelseaGem">#9E5302</color>
+    <color name="Chenin">#DFCD6F</color>
+    <color name="Cherokee">#FCDA98</color>
+    <color name="CherryPie">#2A0359</color>
+    <color name="Cherrywood">#651A14</color>
+    <color name="Cherub">#F8D9E9</color>
+    <color name="Chestnut">#B94E48</color>
+    <color name="ChestnutRose">#CD5C5C</color>
+    <color name="ChetwodeBlue">#8581D9</color>
+    <color name="Chicago">#5D5C58</color>
+    <color name="Chiffon">#F1FFC8</color>
+    <color name="ChileanFire">#F77703</color>
+    <color name="ChileanHeath">#FFFDE6</color>
+    <color name="ChinaIvory">#FCFFE7</color>
+    <color name="Chino">#CEC7A7</color>
+    <color name="Chinook">#A8E3BD</color>
+    <color name="Chocolate">#370202</color>
+    <color name="Christalle">#33036B</color>
+    <color name="Christi">#67A712</color>
+    <color name="Christine">#E7730A</color>
+    <color name="ChromeWhite">#E8F1D4</color>
+    <color name="Cinder">#0E0E18</color>
+    <color name="Cinderella">#FDE1DC</color>
+    <color name="Cinnabar">#E34234</color>
+    <color name="Cinnamon">#7B3F00</color>
+    <color name="Cioccolato">#55280C</color>
+    <color name="CitrineWhite">#FAF7D6</color>
+    <color name="Citron">#9EA91F</color>
+    <color name="Citrus">#A1C50A</color>
+    <color name="Clairvoyant">#480656</color>
+    <color name="ClamShell">#D4B6AF</color>
+    <color name="Claret">#7F1734</color>
+    <color name="ClassicRose">#FBCCE7</color>
+    <color name="ClayAsh">#BDC8B3</color>
+    <color name="ClayCreek">#8A8360</color>
+    <color name="ClearDay">#E9FFFD</color>
+    <color name="Clementine">#E96E00</color>
+    <color name="Clinker">#371D09</color>
+    <color name="Cloud">#C7C4BF</color>
+    <color name="CloudBurst">#202E54</color>
+    <color name="Cloudy">#ACA59F</color>
+    <color name="Clover">#384910</color>
+    <color name="Cobalt">#0047AB</color>
+    <color name="CocoaBean">#481C1C</color>
+    <color name="CocoaBrown">#301F1E</color>
+    <color name="CoconutCream">#F8F7DC</color>
+    <color name="CodGray">#0B0B0B</color>
+    <color name="Coffee">#706555</color>
+    <color name="CoffeeBean">#2A140E</color>
+    <color name="Cognac">#9F381D</color>
+    <color name="Cola">#3F2500</color>
+    <color name="ColdPurple">#ABA0D9</color>
+    <color name="ColdTurkey">#CEBABA</color>
+    <color name="ColonialWhite">#FFEDBC</color>
+    <color name="Comet">#5C5D75</color>
+    <color name="Como">#517C66</color>
+    <color name="Conch">#C9D9D2</color>
+    <color name="Concord">#7C7B7A</color>
+    <color name="Concrete">#F2F2F2</color>
+    <color name="Confetti">#E9D75A</color>
+    <color name="CongoBrown">#593737</color>
+    <color name="CongressBlue">#02478E</color>
+    <color name="Conifer">#ACDD4D</color>
+    <color name="Contessa">#C6726B</color>
+    <color name="Copper">#B87333</color>
+    <color name="CopperCanyon">#7E3A15</color>
+    <color name="CopperRose">#996666</color>
+    <color name="CopperRust">#944747</color>
+    <color name="Copperfield">#DA8A67</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="CoralRed">#FF4040</color>
+    <color name="CoralReef">#C7BCA2</color>
+    <color name="CoralTree">#A86B6B</color>
+    <color name="Corduroy">#606E68</color>
+    <color name="Coriander">#C4D0B0</color>
+    <color name="Cork">#40291D</color>
+    <color name="Corn">#E7BF05</color>
+    <color name="CornField">#F8FACD</color>
+    <color name="CornHarvest">#8B6B0B</color>
+    <color name="Cornflower">#93CCEA</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="CornflowerLilac">#FFB0AC</color>
+    <color name="Corvette">#FAD3A2</color>
+    <color name="Cosmic">#76395D</color>
+    <color name="Cosmos">#FFD8D9</color>
+    <color name="CostaDelSol">#615D30</color>
+    <color name="CottonCandy">#FFB7D5</color>
+    <color name="CottonSeed">#C2BDB6</color>
+    <color name="CountyGreen">#01371A</color>
+    <color name="Cowboy">#4D282D</color>
+    <color name="Crail">#B95140</color>
+    <color name="Cranberry">#DB5079</color>
+    <color name="CraterBrown">#462425</color>
+    <color name="Cream">#FFFDD0</color>
+    <color name="CreamBrulee">#FFE5A0</color>
+    <color name="CreamCan">#F5C85C</color>
+    <color name="Creole">#1E0F04</color>
+    <color name="Crete">#737829</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Crocodile">#736D58</color>
+    <color name="CrownofThorns">#771F1F</color>
+    <color name="Crowshead">#1C1208</color>
+    <color name="Cruise">#B5ECDF</color>
+    <color name="Crusoe">#004816</color>
+    <color name="Crusta">#FD7B33</color>
+    <color name="Cumin">#924321</color>
+    <color name="Cumulus">#FDFFD5</color>
+    <color name="Cupid">#FBBEDA</color>
+    <color name="CuriousBlue">#2596D1</color>
+    <color name="CuttySark">#507672</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="Cyprus">#003E40</color>
+    <color name="Daintree">#012731</color>
+    <color name="DairyCream">#F9E4BC</color>
+    <color name="DaisyBush">#4F2398</color>
+    <color name="Dallas">#6E4B26</color>
+    <color name="Dandelion">#FED85D</color>
+    <color name="Danube">#6093D1</color>
+    <color name="DarkBlue">#0000C8</color>
+    <color name="DarkBurgundy">#770F05</color>
+    <color name="DarkEbony">#3C2005</color>
+    <color name="DarkFern">#0A480D</color>
+    <color name="DarkTan">#661010</color>
+    <color name="Dawn">#A6A29A</color>
+    <color name="DawnPink">#F3E9E5</color>
+    <color name="DeYork">#7AC488</color>
+    <color name="Deco">#D2DA97</color>
+    <color name="DeepBlue">#220878</color>
+    <color name="DeepBlush">#E47698</color>
+    <color name="DeepBronze">#4A3004</color>
+    <color name="DeepCerulean">#007BA7</color>
+    <color name="DeepCove">#051040</color>
+    <color name="DeepFir">#002900</color>
+    <color name="DeepForestGreen">#182D09</color>
+    <color name="DeepKoamaru">#1B127B</color>
+    <color name="DeepOak">#412010</color>
+    <color name="DeepSapphire">#082567</color>
+    <color name="DeepSea">#01826B</color>
+    <color name="DeepSeaGreen">#095859</color>
+    <color name="DeepTeal">#003532</color>
+    <color name="DelRio">#B09A95</color>
+    <color name="Dell">#396413</color>
+    <color name="Delta">#A4A49D</color>
+    <color name="Deluge">#7563A8</color>
+    <color name="Denim">#1560BD</color>
+    <color name="Derby">#FFEED8</color>
+    <color name="Desert">#AE6020</color>
+    <color name="DesertSand">#EDC9AF</color>
+    <color name="DesertStorm">#F8F8F7</color>
+    <color name="Dew">#EAFFFE</color>
+    <color name="DiSerria">#DB995E</color>
+    <color name="Diesel">#130000</color>
+    <color name="Dingley">#5D7747</color>
+    <color name="Disco">#871550</color>
+    <color name="Dixie">#E29418</color>
+    <color name="DodgerBlue">#1E90FF</color>
+    <color name="Dolly">#F9FF8B</color>
+    <color name="Dolphin">#646077</color>
+    <color name="Domino">#8E775E</color>
+    <color name="DonJuan">#5D4C51</color>
+    <color name="DonkeyBrown">#A69279</color>
+    <color name="Dorado">#6B5755</color>
+    <color name="DoubleColonialWhite">#EEE3AD</color>
+    <color name="DoublePearlLusta">#FCF4D0</color>
+    <color name="DoubleSpanishWhite">#E6D7B9</color>
+    <color name="DoveGray">#6D6C6C</color>
+    <color name="Downriver">#092256</color>
+    <color name="Downy">#6FD0C5</color>
+    <color name="Driftwood">#AF8751</color>
+    <color name="Drover">#FDF7AD</color>
+    <color name="DullLavender">#A899E6</color>
+    <color name="Dune">#383533</color>
+    <color name="DustStorm">#E5CCC9</color>
+    <color name="DustyGray">#A8989B</color>
+    <color name="Eagle">#B6BAA4</color>
+    <color name="EarlsGreen">#C9B93B</color>
+    <color name="EarlyDawn">#FFF9E6</color>
+    <color name="EastBay">#414C7D</color>
+    <color name="EastSide">#AC91CE</color>
+    <color name="EasternBlue">#1E9AB0</color>
+    <color name="Ebb">#E9E3E3</color>
+    <color name="Ebony">#0C0B1D</color>
+    <color name="EbonyClay">#26283B</color>
+    <color name="Eclipse">#311C17</color>
+    <color name="EcruWhite">#F5F3E5</color>
+    <color name="Ecstasy">#FA7814</color>
+    <color name="Eden">#105852</color>
+    <color name="Edgewater">#C8E3D7</color>
+    <color name="Edward">#A2AEAB</color>
+    <color name="EggSour">#FFF4DD</color>
+    <color name="EggWhite">#FFEFC1</color>
+    <color name="Eggplant">#614051</color>
+    <color name="ElPaso">#1E1708</color>
+    <color name="ElSalva">#8F3E33</color>
+    <color name="ElectricLime">#CCFF00</color>
+    <color name="ElectricViolet">#8B00FF</color>
+    <color name="Elephant">#123447</color>
+    <color name="ElfGreen">#088370</color>
+    <color name="Elm">#1C7C7D</color>
+    <color name="Emerald">#50C878</color>
+    <color name="Eminence">#6C3082</color>
+    <color name="Emperor">#514649</color>
+    <color name="Empress">#817377</color>
+    <color name="Endeavour">#0056A7</color>
+    <color name="EnergyYellow">#F8DD5C</color>
+    <color name="EnglishHolly">#022D15</color>
+    <color name="EnglishWalnut">#3E2B23</color>
+    <color name="Envy">#8BA690</color>
+    <color name="Equator">#E1BC64</color>
+    <color name="Espresso">#612718</color>
+    <color name="Eternity">#211A0E</color>
+    <color name="Eucalyptus">#278A5B</color>
+    <color name="Eunry">#CFA39D</color>
+    <color name="EveningSea">#024E46</color>
+    <color name="Everglade">#1C402E</color>
+    <color name="FadedJade">#427977</color>
+    <color name="FairPink">#FFEFEC</color>
+    <color name="Falcon">#7F626D</color>
+    <color name="FallGreen">#ECEBBD</color>
+    <color name="FaluRed">#801818</color>
+    <color name="Fantasy">#FAF3F0</color>
+    <color name="Fedora">#796A78</color>
+    <color name="Feijoa">#9FDD8C</color>
+    <color name="Fern">#63B76C</color>
+    <color name="FernFrond">#657220</color>
+    <color name="FernGreen">#4F7942</color>
+    <color name="Ferra">#704F50</color>
+    <color name="Festival">#FBE96C</color>
+    <color name="Feta">#F0FCEA</color>
+    <color name="FieryOrange">#B35213</color>
+    <color name="Finch">#626649</color>
+    <color name="Finlandia">#556D56</color>
+    <color name="Finn">#692D54</color>
+    <color name="Fiord">#405169</color>
+    <color name="Fire">#AA4203</color>
+    <color name="FireBush">#E89928</color>
+    <color name="Firefly">#0E2A30</color>
+    <color name="FlamePea">#DA5B38</color>
+    <color name="Flamenco">#FF7D07</color>
+    <color name="Flamingo">#F2552A</color>
+    <color name="Flax">#EEDC82</color>
+    <color name="FlaxSmoke">#7B8265</color>
+    <color name="Flesh">#FFCBA4</color>
+    <color name="Flint">#6F6A61</color>
+    <color name="Flirt">#A2006D</color>
+    <color name="FlushMahogany">#CA3435</color>
+    <color name="FlushOrange">#FF7F00</color>
+    <color name="Foam">#D8FCFA</color>
+    <color name="Fog">#D7D0FF</color>
+    <color name="FoggyGray">#CBCAB6</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="ForgetMeNot">#FFF1EE</color>
+    <color name="FountainBlue">#56B4BE</color>
+    <color name="Frangipani">#FFDEB3</color>
+    <color name="FrenchGray">#BDBDC6</color>
+    <color name="FrenchLilac">#ECC7EE</color>
+    <color name="FrenchPass">#BDEDFD</color>
+    <color name="FrenchRose">#F64A8A</color>
+    <color name="FreshEggplant">#990066</color>
+    <color name="FriarGray">#807E79</color>
+    <color name="FringyFlower">#B1E2C1</color>
+    <color name="Froly">#F57584</color>
+    <color name="Frost">#EDF5DD</color>
+    <color name="FrostedMint">#DBFFF8</color>
+    <color name="Frostee">#E4F6E7</color>
+    <color name="FruitSalad">#4F9D5D</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="FuchsiaBlue">#7A58C1</color>
+    <color name="FuchsiaPink">#C154C1</color>
+    <color name="Fuego">#BEDE0D</color>
+    <color name="FuelYellow">#ECA927</color>
+    <color name="FunBlue">#1959A8</color>
+    <color name="FunGreen">#016D39</color>
+    <color name="FuscousGray">#54534D</color>
+    <color name="FuzzyWuzzyBrown">#C45655</color>
+    <color name="GableGreen">#163531</color>
+    <color name="Gallery">#EFEFEF</color>
+    <color name="Galliano">#DCB20C</color>
+    <color name="Gamboge">#E49B0F</color>
+    <color name="Geebung">#D18F1B</color>
+    <color name="Genoa">#15736B</color>
+    <color name="Geraldine">#FB8989</color>
+    <color name="Geyser">#D4DFE2</color>
+    <color name="Ghost">#C7C9D5</color>
+    <color name="Gigas">#523C94</color>
+    <color name="Gimblet">#B8B56A</color>
+    <color name="Gin">#E8F2EB</color>
+    <color name="GinFizz">#FFF9E2</color>
+    <color name="Givry">#F8E4BF</color>
+    <color name="Glacier">#80B3C4</color>
+    <color name="GladeGreen">#61845F</color>
+    <color name="GoBen">#726D4E</color>
+    <color name="Goblin">#3D7D52</color>
+    <color name="Gold">#FFD700</color>
+    <color name="GoldDrop">#F18200</color>
+    <color name="GoldSand">#E6BE8A</color>
+    <color name="GoldTips">#DEBA13</color>
+    <color name="GoldenBell">#E28913</color>
+    <color name="GoldenDream">#F0D52D</color>
+    <color name="GoldenFizz">#F5FB3D</color>
+    <color name="GoldenGlow">#FDE295</color>
+    <color name="GoldenGrass">#DAA520</color>
+    <color name="GoldenSand">#F0DB7D</color>
+    <color name="GoldenTainoi">#FFCC5C</color>
+    <color name="Goldenrod">#FCD667</color>
+    <color name="Gondola">#261414</color>
+    <color name="GordonsGreen">#0B1107</color>
+    <color name="Gorse">#FFF14F</color>
+    <color name="Gossamer">#069B81</color>
+    <color name="Gossip">#D2F8B0</color>
+    <color name="Gothic">#6D92A1</color>
+    <color name="GovernorBay">#2F3CB3</color>
+    <color name="GrainBrown">#E4D5B7</color>
+    <color name="Grandis">#FFD38C</color>
+    <color name="GraniteGreen">#8D8974</color>
+    <color name="GrannyApple">#D5F6E3</color>
+    <color name="GrannySmith">#84A0A0</color>
+    <color name="GrannySmithApple">#9DE093</color>
+    <color name="Grape">#381A51</color>
+    <color name="Graphite">#251607</color>
+    <color name="Gravel">#4A444B</color>
+    <color name="Gray">#808080</color>
+    <color name="GrayAsparagus">#465945</color>
+    <color name="GrayChateau">#A2AAB3</color>
+    <color name="GrayNickel">#C3C3BD</color>
+    <color name="GrayNurse">#E7ECE6</color>
+    <color name="GrayOlive">#A9A491</color>
+    <color name="GraySuit">#C1BECD</color>
+    <color name="Green">#00FF00</color>
+    <color name="GreenHaze">#01A368</color>
+    <color name="GreenHouse">#24500F</color>
+    <color name="GreenKelp">#25311C</color>
+    <color name="GreenLeaf">#436A0D</color>
+    <color name="GreenMist">#CBD3B0</color>
+    <color name="GreenPea">#1D6142</color>
+    <color name="GreenSmoke">#A4AF6E</color>
+    <color name="GreenSpring">#B8C1B1</color>
+    <color name="GreenVogue">#032B52</color>
+    <color name="GreenWaterloo">#101405</color>
+    <color name="GreenWhite">#E8EBE0</color>
+    <color name="GreenYellow">#ADFF2F</color>
+    <color name="Grenadier">#D54600</color>
+    <color name="GuardsmanRed">#BA0101</color>
+    <color name="GulfBlue">#051657</color>
+    <color name="GulfStream">#80B3AE</color>
+    <color name="GullGray">#9DACB7</color>
+    <color name="GumLeaf">#B6D3BF</color>
+    <color name="Gumbo">#7CA1A6</color>
+    <color name="GunPowder">#414257</color>
+    <color name="Gunsmoke">#828685</color>
+    <color name="Gurkha">#9A9577</color>
+    <color name="Hacienda">#98811B</color>
+    <color name="HairyHeath">#6B2A14</color>
+    <color name="Haiti">#1B1035</color>
+    <color name="HalfBaked">#85C4CC</color>
+    <color name="HalfColonialWhite">#FDF6D3</color>
+    <color name="HalfDutchWhite">#FEF7DE</color>
+    <color name="HalfSpanishWhite">#FEF4DB</color>
+    <color name="HalfandHalf">#FFFEE1</color>
+    <color name="Hampton">#E5D8AF</color>
+    <color name="Harlequin">#3FFF00</color>
+    <color name="Harp">#E6F2EA</color>
+    <color name="HarvestGold">#E0B974</color>
+    <color name="HavelockBlue">#5590D9</color>
+    <color name="HawaiianTan">#9D5616</color>
+    <color name="HawkesBlue">#D4E2FC</color>
+    <color name="Heath">#541012</color>
+    <color name="Heather">#B7C3D0</color>
+    <color name="HeatheredGray">#B6B095</color>
+    <color name="HeavyMetal">#2B3228</color>
+    <color name="Heliotrope">#DF73FF</color>
+    <color name="Hemlock">#5E5D3B</color>
+    <color name="Hemp">#907874</color>
+    <color name="Hibiscus">#B6316C</color>
+    <color name="Highland">#6F8E63</color>
+    <color name="Hillary">#ACA586</color>
+    <color name="Himalaya">#6A5D1B</color>
+    <color name="HintofGreen">#E6FFE9</color>
+    <color name="HintofRed">#FBF9F9</color>
+    <color name="HintofYellow">#FAFDE4</color>
+    <color name="HippieBlue">#589AAF</color>
+    <color name="HippieGreen">#53824B</color>
+    <color name="HippiePink">#AE4560</color>
+    <color name="HitGray">#A1ADB5</color>
+    <color name="HitPink">#FFAB81</color>
+    <color name="HokeyPokey">#C8A528</color>
+    <color name="Hoki">#65869F</color>
+    <color name="Holly">#011D13</color>
+    <color name="HollywoodCerise">#F400A1</color>
+    <color name="HoneyFlower">#4F1C70</color>
+    <color name="Honeysuckle">#EDFC84</color>
+    <color name="Hopbush">#D06DA1</color>
+    <color name="Horizon">#5A87A0</color>
+    <color name="HorsesNeck">#604913</color>
+    <color name="HotCinnamon">#D2691E</color>
+    <color name="HotPink">#FF69B4</color>
+    <color name="HotToddy">#B38007</color>
+    <color name="HummingBird">#CFF9F3</color>
+    <color name="HunterGreen">#161D10</color>
+    <color name="Hurricane">#877C7B</color>
+    <color name="Husk">#B7A458</color>
+    <color name="IceCold">#B1F4E7</color>
+    <color name="Iceberg">#DAF4F0</color>
+    <color name="Illusion">#F6A4C9</color>
+    <color name="InchWorm">#B0E313</color>
+    <color name="IndianKhaki">#C3B091</color>
+    <color name="IndianTan">#4D1E01</color>
+    <color name="Indigo">#4F69C6</color>
+    <color name="Indochine">#C26B03</color>
+    <color name="InternationalKleinBlue">#002FA7</color>
+    <color name="InternationalOrange">#FF4F00</color>
+    <color name="IrishCoffee">#5F3D26</color>
+    <color name="Iroko">#433120</color>
+    <color name="Iron">#D4D7D9</color>
+    <color name="IronsideGray">#676662</color>
+    <color name="Ironstone">#86483C</color>
+    <color name="IslandSpice">#FFFCEE</color>
+    <color name="Ivory">#FFFFF0</color>
+    <color name="Jacaranda">#2E0329</color>
+    <color name="Jacarta">#3A2A6A</color>
+    <color name="JackoBean">#2E1905</color>
+    <color name="JacksonsPurple">#20208D</color>
+    <color name="Jade">#00A86B</color>
+    <color name="Jaffa">#EF863F</color>
+    <color name="JaggedIce">#C2E8E5</color>
+    <color name="Jagger">#350E57</color>
+    <color name="Jaguar">#080110</color>
+    <color name="Jambalaya">#5B3013</color>
+    <color name="Janna">#F4EBD3</color>
+    <color name="JapaneseLaurel">#0A6906</color>
+    <color name="JapaneseMaple">#780109</color>
+    <color name="Japonica">#D87C63</color>
+    <color name="Java">#1FC2C2</color>
+    <color name="JazzberryJam">#A50B5E</color>
+    <color name="JellyBean">#297B9A</color>
+    <color name="JetStream">#B5D2CE</color>
+    <color name="Jewel">#126B40</color>
+    <color name="Jon">#3B1F1F</color>
+    <color name="Jonquil">#EEFF9A</color>
+    <color name="JordyBlue">#8AB9F1</color>
+    <color name="JudgeGray">#544333</color>
+    <color name="Jumbo">#7C7B82</color>
+    <color name="JungleGreen">#29AB87</color>
+    <color name="JungleMist">#B4CFD3</color>
+    <color name="Juniper">#6D9292</color>
+    <color name="JustRight">#ECCDB9</color>
+    <color name="Kabul">#5E483E</color>
+    <color name="KaitokeGreen">#004620</color>
+    <color name="Kangaroo">#C6C8BD</color>
+    <color name="Karaka">#1E1609</color>
+    <color name="Karry">#FFEAD4</color>
+    <color name="KashmirBlue">#507096</color>
+    <color name="Kelp">#454936</color>
+    <color name="KenyanCopper">#7C1C05</color>
+    <color name="Keppel">#3AB09E</color>
+    <color name="KeyLimePie">#BFC921</color>
+    <color name="Khaki">#F0E68C</color>
+    <color name="Kidnapper">#E1EAD4</color>
+    <color name="Kilamanjaro">#240C02</color>
+    <color name="Killarney">#3A6A47</color>
+    <color name="Kimberly">#736C9F</color>
+    <color name="KingfisherDaisy">#3E0480</color>
+    <color name="Kobi">#E79FC4</color>
+    <color name="Kokoda">#6E6D57</color>
+    <color name="Korma">#8F4B0E</color>
+    <color name="Koromiko">#FFBD5F</color>
+    <color name="Kournikova">#FFE772</color>
+    <color name="Kumera">#886221</color>
+    <color name="LaPalma">#368716</color>
+    <color name="LaRioja">#B3C110</color>
+    <color name="LasPalmas">#C6E610</color>
+    <color name="Laser">#C8B568</color>
+    <color name="LaserLemon">#FFFF66</color>
+    <color name="Laurel">#749378</color>
+    <color name="Lavender">#B57EDC</color>
+    <color name="LavenderGray">#BDBBD7</color>
+    <color name="LavenderMagenta">#EE82EE</color>
+    <color name="LavenderPink">#FBAED2</color>
+    <color name="LavenderPurple">#967BB6</color>
+    <color name="LavenderRose">#FBA0E3</color>
+    <color name="Lavenderblush">#FFF0F5</color>
+    <color name="Leather">#967059</color>
+    <color name="Lemon">#FDE910</color>
+    <color name="LemonChiffon">#FFFACD</color>
+    <color name="LemonGinger">#AC9E22</color>
+    <color name="LemonGrass">#9B9E8F</color>
+    <color name="LightApricot">#FDD5B1</color>
+    <color name="LightOrchid">#E29CD2</color>
+    <color name="LightWisteria">#C9A0DC</color>
+    <color name="LightningYellow">#FCC01E</color>
+    <color name="Lilac">#C8A2C8</color>
+    <color name="LilacBush">#9874D3</color>
+    <color name="Lily">#C8AABF</color>
+    <color name="LilyWhite">#E7F8FF</color>
+    <color name="Lima">#76BD17</color>
+    <color name="Lime">#BFFF00</color>
+    <color name="Limeade">#6F9D02</color>
+    <color name="LimedAsh">#747D63</color>
+    <color name="LimedOak">#AC8A56</color>
+    <color name="LimedSpruce">#394851</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="LinkWater">#D9E4F5</color>
+    <color name="Lipstick">#AB0563</color>
+    <color name="LisbonBrown">#423921</color>
+    <color name="LividBrown">#4D282E</color>
+    <color name="Loafer">#EEF4DE</color>
+    <color name="Loblolly">#BDC9CE</color>
+    <color name="Lochinvar">#2C8C84</color>
+    <color name="Lochmara">#007EC7</color>
+    <color name="Locust">#A8AF8E</color>
+    <color name="LogCabin">#242A1D</color>
+    <color name="Logan">#AAA9CD</color>
+    <color name="Lola">#DFCFDB</color>
+    <color name="LondonHue">#BEA6C3</color>
+    <color name="Lonestar">#6D0101</color>
+    <color name="Lotus">#863C3C</color>
+    <color name="Loulou">#460B41</color>
+    <color name="Lucky">#AF9F1C</color>
+    <color name="LuckyPoint">#1A1A68</color>
+    <color name="LunarGreen">#3C493A</color>
+    <color name="LuxorGold">#A7882C</color>
+    <color name="Lynch">#697E9A</color>
+    <color name="Mabel">#D9F7FF</color>
+    <color name="MacaroniandCheese">#FFB97B</color>
+    <color name="Madang">#B7F0BE</color>
+    <color name="Madison">#09255D</color>
+    <color name="Madras">#3F3002</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="MagicMint">#AAF0D1</color>
+    <color name="Magnolia">#F8F4FF</color>
+    <color name="Mahogany">#4E0606</color>
+    <color name="MaiTai">#B06608</color>
+    <color name="Maize">#F5D5A0</color>
+    <color name="Makara">#897D6D</color>
+    <color name="Mako">#444954</color>
+    <color name="Malachite">#0BDA51</color>
+    <color name="Malibu">#7DC8F7</color>
+    <color name="Mallard">#233418</color>
+    <color name="Malta">#BDB2A1</color>
+    <color name="Mamba">#8E8190</color>
+    <color name="Manatee">#8D90A1</color>
+    <color name="Mandalay">#AD781B</color>
+    <color name="Mandy">#E25465</color>
+    <color name="MandysPink">#F2C3B2</color>
+    <color name="MangoTango">#E77200</color>
+    <color name="Manhattan">#F5C999</color>
+    <color name="Mantis">#74C365</color>
+    <color name="Mantle">#8B9C90</color>
+    <color name="Manz">#EEEF78</color>
+    <color name="MardiGras">#350036</color>
+    <color name="Marigold">#B98D28</color>
+    <color name="MarigoldYellow">#FBE870</color>
+    <color name="Mariner">#286ACD</color>
+    <color name="Maroon">#800000</color>
+    <color name="MaroonFlush">#C32148</color>
+    <color name="MaroonOak">#520C17</color>
+    <color name="Marshland">#0B0F08</color>
+    <color name="Martini">#AFA09E</color>
+    <color name="Martinique">#363050</color>
+    <color name="Marzipan">#F8DB9D</color>
+    <color name="Masala">#403B38</color>
+    <color name="Matisse">#1B659D</color>
+    <color name="Matrix">#B05D54</color>
+    <color name="Matterhorn">#4E3B41</color>
+    <color name="Mauve">#E0B0FF</color>
+    <color name="Mauvelous">#F091A9</color>
+    <color name="Maverick">#D8C2D5</color>
+    <color name="MediumCarmine">#AF4035</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="MediumRedViolet">#BB3385</color>
+    <color name="Melanie">#E4C2D5</color>
+    <color name="Melanzane">#300529</color>
+    <color name="Melon">#FEBAAD</color>
+    <color name="Melrose">#C7C1FF</color>
+    <color name="Mercury">#E5E5E5</color>
+    <color name="Merino">#F6F0E6</color>
+    <color name="Merlin">#413C37</color>
+    <color name="Merlot">#831923</color>
+    <color name="MetallicBronze">#49371B</color>
+    <color name="MetallicCopper">#71291D</color>
+    <color name="Meteor">#D07D12</color>
+    <color name="Meteorite">#3C1F76</color>
+    <color name="MexicanRed">#A72525</color>
+    <color name="MidGray">#5F5F6E</color>
+    <color name="Midnight">#011635</color>
+    <color name="MidnightBlue">#003366</color>
+    <color name="MidnightMoss">#041004</color>
+    <color name="Mikado">#2D2510</color>
+    <color name="Milan">#FAFFA4</color>
+    <color name="MilanoRed">#B81104</color>
+    <color name="MilkPunch">#FFF6D4</color>
+    <color name="Millbrook">#594433</color>
+    <color name="Mimosa">#F8FDD3</color>
+    <color name="Mindaro">#E3F988</color>
+    <color name="MineShaft">#323232</color>
+    <color name="MineralGreen">#3F5D53</color>
+    <color name="Ming">#36747D</color>
+    <color name="Minsk">#3F307F</color>
+    <color name="MintGreen">#98FF98</color>
+    <color name="MintJulep">#F1EEC1</color>
+    <color name="MintTulip">#C4F4EB</color>
+    <color name="Mirage">#161928</color>
+    <color name="Mischka">#D1D2DD</color>
+    <color name="MistGray">#C4C4BC</color>
+    <color name="Mobster">#7F7589</color>
+    <color name="Moccaccino">#6E1D14</color>
+    <color name="Mocha">#782D19</color>
+    <color name="Mojo">#C04737</color>
+    <color name="MonaLisa">#FFA194</color>
+    <color name="Monarch">#8B0723</color>
+    <color name="Mondo">#4A3C30</color>
+    <color name="Mongoose">#B5A27F</color>
+    <color name="Monsoon">#8A8389</color>
+    <color name="MonteCarlo">#83D0C6</color>
+    <color name="Monza">#C7031E</color>
+    <color name="MoodyBlue">#7F76D3</color>
+    <color name="MoonGlow">#FCFEDA</color>
+    <color name="MoonMist">#DCDDCC</color>
+    <color name="MoonRaker">#D6CEF6</color>
+    <color name="MorningGlory">#9EDEE0</color>
+    <color name="MoroccoBrown">#441D00</color>
+    <color name="Mortar">#504351</color>
+    <color name="Mosque">#036A6E</color>
+    <color name="MossGreen">#ADDFAD</color>
+    <color name="MountainMeadow">#1AB385</color>
+    <color name="MountainMist">#959396</color>
+    <color name="MountbattenPink">#997A8D</color>
+    <color name="MuddyWaters">#B78E5C</color>
+    <color name="Muesli">#AA8B5B</color>
+    <color name="Mulberry">#C54B8C</color>
+    <color name="MulberryWood">#5C0536</color>
+    <color name="MuleFawn">#8C472F</color>
+    <color name="MulledWine">#4E4562</color>
+    <color name="Mustard">#FFDB58</color>
+    <color name="MyPink">#D69188</color>
+    <color name="MySin">#FFB31F</color>
+    <color name="Mystic">#E2EBED</color>
+    <color name="Nandor">#4B5D52</color>
+    <color name="Napa">#ACA494</color>
+    <color name="Narvik">#EDF9F1</color>
+    <color name="NaturalGray">#8B8680</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="NavyBlue">#000080</color>
+    <color name="Nebula">#CBDBD6</color>
+    <color name="Negroni">#FFE2C5</color>
+    <color name="NeonCarrot">#FF9933</color>
+    <color name="Nepal">#8EABC1</color>
+    <color name="Neptune">#7CB7BB</color>
+    <color name="Nero">#140600</color>
+    <color name="Nevada">#646E75</color>
+    <color name="NewOrleans">#F3D69D</color>
+    <color name="NewYorkPink">#D7837F</color>
+    <color name="Niagara">#06A189</color>
+    <color name="NightRider">#1F120F</color>
+    <color name="NightShadz">#AA375A</color>
+    <color name="NileBlue">#193751</color>
+    <color name="Nobel">#B7B1B1</color>
+    <color name="Nomad">#BAB1A2</color>
+    <color name="Norway">#A8BD9F</color>
+    <color name="Nugget">#C59922</color>
+    <color name="Nutmeg">#81422C</color>
+    <color name="NutmegWoodFinish">#683600</color>
+    <color name="Oasis">#FEEFCE</color>
+    <color name="Observatory">#02866F</color>
+    <color name="OceanGreen">#41AA78</color>
+    <color name="Ochre">#CC7722</color>
+    <color name="OffGreen">#E6F8F3</color>
+    <color name="OffYellow">#FEF9E3</color>
+    <color name="Oil">#281E15</color>
+    <color name="OldBrick">#901E1E</color>
+    <color name="OldCopper">#724A2F</color>
+    <color name="OldGold">#CFB53B</color>
+    <color name="OldLace">#FDF5E6</color>
+    <color name="OldLavender">#796878</color>
+    <color name="OldRose">#C08081</color>
+    <color name="Olive">#808000</color>
+    <color name="OliveDrab">#6B8E23</color>
+    <color name="OliveGreen">#B5B35C</color>
+    <color name="OliveHaze">#8B8470</color>
+    <color name="Olivetone">#716E10</color>
+    <color name="Olivine">#9AB973</color>
+    <color name="Onahau">#CDF4FF</color>
+    <color name="Onion">#2F270E</color>
+    <color name="Opal">#A9C6C2</color>
+    <color name="Opium">#8E6F70</color>
+    <color name="Oracle">#377475</color>
+    <color name="Orange">#FF681F</color>
+    <color name="OrangePeel">#FFA000</color>
+    <color name="OrangeRoughy">#C45719</color>
+    <color name="OrangeWhite">#FEFCED</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="OrchidWhite">#FFFDF3</color>
+    <color name="Oregon">#9B4703</color>
+    <color name="Orient">#015E85</color>
+    <color name="OrientalPink">#C69191</color>
+    <color name="Orinoco">#F3FBD4</color>
+    <color name="OsloGray">#878D91</color>
+    <color name="Ottoman">#E9F8ED</color>
+    <color name="OuterSpace">#2D383A</color>
+    <color name="OutrageousOrange">#FF6037</color>
+    <color name="OxfordBlue">#384555</color>
+    <color name="Oxley">#779E86</color>
+    <color name="OysterBay">#DAFAFF</color>
+    <color name="OysterPink">#E9CECD</color>
+    <color name="Paarl">#A65529</color>
+    <color name="Pablo">#776F61</color>
+    <color name="PacificBlue">#009DC4</color>
+    <color name="Pacifika">#778120</color>
+    <color name="Paco">#411F10</color>
+    <color name="Padua">#ADE6C4</color>
+    <color name="PaleCanary">#FFFF99</color>
+    <color name="PaleLeaf">#C0D3B9</color>
+    <color name="PaleOyster">#988D77</color>
+    <color name="PalePrim">#FDFEB8</color>
+    <color name="PaleRose">#FFE1F2</color>
+    <color name="PaleSky">#6E7783</color>
+    <color name="PaleSlate">#C3BFC1</color>
+    <color name="PalmGreen">#09230F</color>
+    <color name="PalmLeaf">#19330E</color>
+    <color name="Pampas">#F4F2EE</color>
+    <color name="Panache">#EAF6EE</color>
+    <color name="Pancho">#EDCDAB</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="Paprika">#8D0226</color>
+    <color name="Paradiso">#317D82</color>
+    <color name="Parchment">#F1E9D2</color>
+    <color name="ParisDaisy">#FFF46E</color>
+    <color name="ParisM">#26056A</color>
+    <color name="ParisWhite">#CADCD4</color>
+    <color name="Parsley">#134F19</color>
+    <color name="PastelGreen">#77DD77</color>
+    <color name="PastelPink">#FFD1DC</color>
+    <color name="Patina">#639A8F</color>
+    <color name="PattensBlue">#DEF5FF</color>
+    <color name="Paua">#260368</color>
+    <color name="Pavlova">#D7C498</color>
+    <color name="Peach">#FFE5B4</color>
+    <color name="PeachCream">#FFF0DB</color>
+    <color name="PeachOrange">#FFCC99</color>
+    <color name="PeachSchnapps">#FFDCD6</color>
+    <color name="PeachYellow">#FADFAD</color>
+    <color name="Peanut">#782F16</color>
+    <color name="Pear">#D1E231</color>
+    <color name="PearlBush">#E8E0D5</color>
+    <color name="PearlLusta">#FCF4DC</color>
+    <color name="Peat">#716B56</color>
+    <color name="Pelorous">#3EABBF</color>
+    <color name="Peppermint">#E3F5E1</color>
+    <color name="Perano">#A9BEF2</color>
+    <color name="Perfume">#D0BEF8</color>
+    <color name="PeriglacialBlue">#E1E6D6</color>
+    <color name="Periwinkle">#CCCCFF</color>
+    <color name="PeriwinkleGray">#C3CDE6</color>
+    <color name="PersianBlue">#1C39BB</color>
+    <color name="PersianGreen">#00A693</color>
+    <color name="PersianIndigo">#32127A</color>
+    <color name="PersianPink">#F77FBE</color>
+    <color name="PersianPlum">#701C1C</color>
+    <color name="PersianRed">#CC3333</color>
+    <color name="PersianRose">#FE28A2</color>
+    <color name="Persimmon">#FF6B53</color>
+    <color name="PeruTan">#7F3A02</color>
+    <color name="Pesto">#7C7631</color>
+    <color name="PetiteOrchid">#DB9690</color>
+    <color name="Pewter">#96A8A1</color>
+    <color name="Pharlap">#A3807B</color>
+    <color name="Picasso">#FFF39D</color>
+    <color name="PickledBean">#6E4826</color>
+    <color name="PickledBluewood">#314459</color>
+    <color name="PictonBlue">#45B1E8</color>
+    <color name="PigPink">#FDD7E4</color>
+    <color name="PigeonPost">#AFBDD9</color>
+    <color name="PigmentIndigo">#4B0082</color>
+    <color name="PineCone">#6D5E54</color>
+    <color name="PineGlade">#C7CD90</color>
+    <color name="PineGreen">#01796F</color>
+    <color name="PineTree">#171F04</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="PinkFlamingo">#FF66FF</color>
+    <color name="PinkFlare">#E1C0C8</color>
+    <color name="PinkLace">#FFDDF4</color>
+    <color name="PinkLady">#FFF1D8</color>
+    <color name="PinkSalmon">#FF91A4</color>
+    <color name="PinkSwan">#BEB5B7</color>
+    <color name="Piper">#C96323</color>
+    <color name="Pipi">#FEF4CC</color>
+    <color name="Pippin">#FFE1DF</color>
+    <color name="PirateGold">#BA7F03</color>
+    <color name="Pistachio">#9DC209</color>
+    <color name="PixieGreen">#C0D8B6</color>
+    <color name="Pizazz">#FF9000</color>
+    <color name="Pizza">#C99415</color>
+    <color name="Plantation">#27504B</color>
+    <color name="Plum">#843179</color>
+    <color name="Pohutukawa">#8F021C</color>
+    <color name="Polar">#E5F9F6</color>
+    <color name="PoloBlue">#8DA8CC</color>
+    <color name="Pomegranate">#F34723</color>
+    <color name="Pompadour">#660045</color>
+    <color name="Porcelain">#EFF2F3</color>
+    <color name="Porsche">#EAAE69</color>
+    <color name="PortGore">#251F4F</color>
+    <color name="Portafino">#FFFFB4</color>
+    <color name="Portage">#8B9FEE</color>
+    <color name="Portica">#F9E663</color>
+    <color name="PotPourri">#F5E7E2</color>
+    <color name="PottersClay">#8C5738</color>
+    <color name="PowderAsh">#BCC9C2</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="PrairieSand">#9A3820</color>
+    <color name="Prelude">#D0C0E5</color>
+    <color name="Prim">#F0E2EC</color>
+    <color name="Primrose">#EDEA99</color>
+    <color name="ProvincialPink">#FEF5F1</color>
+    <color name="PrussianBlue">#003153</color>
+    <color name="Puce">#CC8899</color>
+    <color name="Pueblo">#7D2C14</color>
+    <color name="PuertoRico">#3FC1AA</color>
+    <color name="Pumice">#C2CAC4</color>
+    <color name="Pumpkin">#FF7518</color>
+    <color name="PumpkinSkin">#B1610B</color>
+    <color name="Punch">#DC4333</color>
+    <color name="Punga">#4D3D14</color>
+    <color name="Purple">#660099</color>
+    <color name="PurpleHeart">#652DC1</color>
+    <color name="PurpleMountainsMajesty">#9678B6</color>
+    <color name="PurplePizzazz">#FF00CC</color>
+    <color name="Putty">#E7CD8C</color>
+    <color name="QuarterPearlLusta">#FFFDF4</color>
+    <color name="QuarterSpanishWhite">#F7F2E1</color>
+    <color name="Quicksand">#BD978E</color>
+    <color name="QuillGray">#D6D6D1</color>
+    <color name="Quincy">#623F2D</color>
+    <color name="RacingGreen">#0C1911</color>
+    <color name="RadicalRed">#FF355E</color>
+    <color name="Raffia">#EADAB8</color>
+    <color name="Rainee">#B9C8AC</color>
+    <color name="Rajah">#F7B668</color>
+    <color name="Rangitoto">#2E3222</color>
+    <color name="RangoonGreen">#1C1E13</color>
+    <color name="Raven">#727B89</color>
+    <color name="RawSienna">#D27D46</color>
+    <color name="RawUmber">#734A12</color>
+    <color name="RazzleDazzleRose">#FF33CC</color>
+    <color name="Razzmatazz">#E30B5C</color>
+    <color name="Rebel">#3C1206</color>
+    <color name="Red">#FF0000</color>
+    <color name="RedBeech">#7B3801</color>
+    <color name="RedBerry">#8E0000</color>
+    <color name="RedDamask">#DA6A41</color>
+    <color name="RedDevil">#860111</color>
+    <color name="RedOrange">#FF3F34</color>
+    <color name="RedOxide">#6E0902</color>
+    <color name="RedRibbon">#ED0A3F</color>
+    <color name="RedRobin">#80341F</color>
+    <color name="RedStage">#D05F04</color>
+    <color name="RedViolet">#C71585</color>
+    <color name="Redwood">#5D1E0F</color>
+    <color name="Reef">#C9FFA2</color>
+    <color name="ReefGold">#9F821C</color>
+    <color name="RegalBlue">#013F6A</color>
+    <color name="RegentGray">#86949F</color>
+    <color name="RegentStBlue">#AAD6E6</color>
+    <color name="Remy">#FEEBF3</color>
+    <color name="RenoSand">#A86515</color>
+    <color name="ResolutionBlue">#002387</color>
+    <color name="Revolver">#2C1632</color>
+    <color name="Rhino">#2E3F62</color>
+    <color name="RiceCake">#FFFEF0</color>
+    <color name="RiceFlower">#EEFFE2</color>
+    <color name="RichGold">#A85307</color>
+    <color name="RioGrande">#BBD009</color>
+    <color name="RipeLemon">#F4D81C</color>
+    <color name="RipePlum">#410056</color>
+    <color name="Riptide">#8BE6D8</color>
+    <color name="RiverBed">#434C59</color>
+    <color name="RobRoy">#EAC674</color>
+    <color name="RobinsEggBlue">#00CCCC</color>
+    <color name="Rock">#4D3833</color>
+    <color name="RockBlue">#9EB1CD</color>
+    <color name="RockSpray">#BA450C</color>
+    <color name="RodeoDust">#C9B29B</color>
+    <color name="RollingStone">#747D83</color>
+    <color name="Roman">#DE6360</color>
+    <color name="RomanCoffee">#795D4C</color>
+    <color name="Romance">#FFFEFD</color>
+    <color name="Romantic">#FFD2B7</color>
+    <color name="Ronchi">#ECC54E</color>
+    <color name="RoofTerracotta">#A62F20</color>
+    <color name="Rope">#8E4D1E</color>
+    <color name="Rose">#FF007F</color>
+    <color name="RoseBud">#FBB2A3</color>
+    <color name="RoseBudCherry">#800B47</color>
+    <color name="RoseFog">#E7BCB4</color>
+    <color name="RoseWhite">#FFF6F5</color>
+    <color name="RoseofSharon">#BF5500</color>
+    <color name="Rosewood">#65000B</color>
+    <color name="Roti">#C6A84B</color>
+    <color name="Rouge">#A23B6C</color>
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="RoyalHeath">#AB3472</color>
+    <color name="RoyalPurple">#6B3FA0</color>
+    <color name="Rum">#796989</color>
+    <color name="RumSwizzle">#F9F8E4</color>
+    <color name="Russet">#80461B</color>
+    <color name="Russett">#755A57</color>
+    <color name="Rust">#B7410E</color>
+    <color name="RusticRed">#480404</color>
+    <color name="RustyNail">#86560A</color>
+    <color name="Saddle">#4C3024</color>
+    <color name="SaddleBrown">#583401</color>
+    <color name="Saffron">#F4C430</color>
+    <color name="SaffronMango">#F9BF58</color>
+    <color name="Sage">#9EA587</color>
+    <color name="Sahara">#B7A214</color>
+    <color name="SaharaSand">#F1E788</color>
+    <color name="Sail">#B8E0F9</color>
+    <color name="Salem">#097F4B</color>
+    <color name="Salmon">#FF8C69</color>
+    <color name="Salomie">#FEDB8D</color>
+    <color name="SaltBox">#685E6E</color>
+    <color name="Saltpan">#F1F7F2</color>
+    <color name="Sambuca">#3A2010</color>
+    <color name="SanFelix">#0B6207</color>
+    <color name="SanJuan">#304B6A</color>
+    <color name="SanMarino">#456CAC</color>
+    <color name="SandDune">#826F65</color>
+    <color name="Sandal">#AA8D6F</color>
+    <color name="Sandrift">#AB917A</color>
+    <color name="Sandstone">#796D62</color>
+    <color name="Sandwisp">#F5E7A2</color>
+    <color name="SandyBeach">#FFEAC8</color>
+    <color name="Sandybrown">#F4A460</color>
+    <color name="Sangria">#92000A</color>
+    <color name="SanguineBrown">#8D3D38</color>
+    <color name="SantaFe">#B16D52</color>
+    <color name="SantasGray">#9FA0B1</color>
+    <color name="Sapling">#DED4A4</color>
+    <color name="Sapphire">#2F519E</color>
+    <color name="Saratoga">#555B10</color>
+    <color name="SatinLinen">#E6E4D4</color>
+    <color name="Sauvignon">#FFF5F3</color>
+    <color name="Sazerac">#FFF4E0</color>
+    <color name="Scampi">#675FA6</color>
+    <color name="Scandal">#CFFAF4</color>
+    <color name="Scarlet">#FF2400</color>
+    <color name="ScarletGum">#431560</color>
+    <color name="Scarlett">#950015</color>
+    <color name="ScarpaFlow">#585562</color>
+    <color name="Schist">#A9B497</color>
+    <color name="SchoolbusYellow">#FFD800</color>
+    <color name="Schooner">#8B847E</color>
+    <color name="ScienceBlue">#0066CC</color>
+    <color name="Scooter">#2EBFD4</color>
+    <color name="Scorpion">#695F62</color>
+    <color name="ScotchMist">#FFFBDC</color>
+    <color name="ScreaminGreen">#66FF66</color>
+    <color name="SeaBuckthorn">#FBA129</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="SeaMist">#C5DBCA</color>
+    <color name="SeaNymph">#78A39C</color>
+    <color name="SeaPink">#ED989E</color>
+    <color name="Seagull">#80CCEA</color>
+    <color name="Seance">#731E8F</color>
+    <color name="Seashell">#F1F1F1</color>
+    <color name="SeashellPeach">#FFF5EE</color>
+    <color name="Seaweed">#1B2F11</color>
+    <color name="Selago">#F0EEFD</color>
+    <color name="SelectiveYellow">#FFBA00</color>
+    <color name="Sepia">#704214</color>
+    <color name="SepiaBlack">#2B0202</color>
+    <color name="SepiaSkin">#9E5B40</color>
+    <color name="Serenade">#FFF4E8</color>
+    <color name="Shadow">#837050</color>
+    <color name="ShadowGreen">#9AC2B8</color>
+    <color name="ShadyLady">#AAA5A9</color>
+    <color name="Shakespeare">#4EABD1</color>
+    <color name="Shalimar">#FBFFBA</color>
+    <color name="Shamrock">#33CC99</color>
+    <color name="Shark">#25272C</color>
+    <color name="SherpaBlue">#004950</color>
+    <color name="SherwoodGreen">#02402C</color>
+    <color name="Shilo">#E8B9B3</color>
+    <color name="ShingleFawn">#6B4E31</color>
+    <color name="ShipCove">#788BBA</color>
+    <color name="ShipGray">#3E3A44</color>
+    <color name="Shiraz">#B20931</color>
+    <color name="Shocking">#E292C0</color>
+    <color name="ShockingPink">#FC0FC0</color>
+    <color name="ShuttleGray">#5F6672</color>
+    <color name="Siam">#646A54</color>
+    <color name="Sidecar">#F3E7BB</color>
+    <color name="Silk">#BDB1A8</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="SilverChalice">#ACACAC</color>
+    <color name="SilverRust">#C9C0BB</color>
+    <color name="SilverSand">#BFC1C2</color>
+    <color name="SilverTree">#66B58F</color>
+    <color name="Sinbad">#9FD7D3</color>
+    <color name="Siren">#7A013A</color>
+    <color name="Sirocco">#718080</color>
+    <color name="Sisal">#D3CBBA</color>
+    <color name="Skeptic">#CAE6DA</color>
+    <color name="SkyBlue">#76D7EA</color>
+    <color name="SlateGray">#708090</color>
+    <color name="Smalt">#003399</color>
+    <color name="SmaltBlue">#51808F</color>
+    <color name="Smoky">#605B73</color>
+    <color name="SnowDrift">#F7FAF7</color>
+    <color name="SnowFlurry">#E4FFD1</color>
+    <color name="SnowyMint">#D6FFDB</color>
+    <color name="Snuff">#E2D8ED</color>
+    <color name="Soapstone">#FFFBF9</color>
+    <color name="SoftAmber">#D1C6B4</color>
+    <color name="SoftPeach">#F5EDEF</color>
+    <color name="SolidPink">#893843</color>
+    <color name="Solitaire">#FEF8E2</color>
+    <color name="Solitude">#EAF6FF</color>
+    <color name="Sorbus">#FD7C07</color>
+    <color name="SorrellBrown">#CEB98F</color>
+    <color name="SoyaBean">#6A6051</color>
+    <color name="SpanishGreen">#819885</color>
+    <color name="Spectra">#2F5A57</color>
+    <color name="Spice">#6A442E</color>
+    <color name="SpicyMix">#885342</color>
+    <color name="SpicyMustard">#74640D</color>
+    <color name="SpicyPink">#816E71</color>
+    <color name="Spindle">#B6D1EA</color>
+    <color name="Spray">#79DEEC</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="SpringLeaves">#578363</color>
+    <color name="SpringRain">#ACCBB1</color>
+    <color name="SpringSun">#F6FFDC</color>
+    <color name="SpringWood">#F8F6F1</color>
+    <color name="Sprout">#C1D7B0</color>
+    <color name="SpunPearl">#AAABB7</color>
+    <color name="Squirrel">#8F8176</color>
+    <color name="StTropaz">#2D569B</color>
+    <color name="Stack">#8A8F8A</color>
+    <color name="StarDust">#9F9F9C</color>
+    <color name="StarkWhite">#E5D7BD</color>
+    <color name="Starship">#ECF245</color>
+    <color name="SteelBlue">#4682B4</color>
+    <color name="SteelGray">#262335</color>
+    <color name="Stiletto">#9C3336</color>
+    <color name="Stonewall">#928573</color>
+    <color name="StormDust">#646463</color>
+    <color name="StormGray">#717486</color>
+    <color name="Stratos">#000741</color>
+    <color name="Straw">#D4BF8D</color>
+    <color name="Strikemaster">#956387</color>
+    <color name="Stromboli">#325D52</color>
+    <color name="Studio">#714AB2</color>
+    <color name="Submarine">#BAC7C9</color>
+    <color name="SugarCane">#F9FFF6</color>
+    <color name="Sulu">#C1F07C</color>
+    <color name="SummerGreen">#96BBAB</color>
+    <color name="Sun">#FBAC13</color>
+    <color name="Sundance">#C9B35B</color>
+    <color name="Sundown">#FFB1B3</color>
+    <color name="Sunflower">#E4D422</color>
+    <color name="Sunglo">#E16865</color>
+    <color name="Sunglow">#FFCC33</color>
+    <color name="SunsetOrange">#FE4C40</color>
+    <color name="Sunshade">#FF9E2C</color>
+    <color name="Supernova">#FFC901</color>
+    <color name="Surf">#BBD7C1</color>
+    <color name="SurfCrest">#CFE5D2</color>
+    <color name="SurfieGreen">#0C7A79</color>
+    <color name="Sushi">#87AB39</color>
+    <color name="SuvaGray">#888387</color>
+    <color name="Swamp">#001B1C</color>
+    <color name="SwampGreen">#ACB78E</color>
+    <color name="SwansDown">#DCF0EA</color>
+    <color name="SweetCorn">#FBEA8C</color>
+    <color name="SweetPink">#FD9FA2</color>
+    <color name="Swirl">#D3CDC5</color>
+    <color name="SwissCoffee">#DDD6D5</color>
+    <color name="Sycamore">#908D39</color>
+    <color name="Tabasco">#A02712</color>
+    <color name="Tacao">#EDB381</color>
+    <color name="Tacha">#D6C562</color>
+    <color name="TahitiGold">#E97C07</color>
+    <color name="TahunaSands">#EEF0C8</color>
+    <color name="TallPoppy">#B32D29</color>
+    <color name="Tallow">#A8A589</color>
+    <color name="Tamarillo">#991613</color>
+    <color name="Tamarind">#341515</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="TanHide">#FA9D5A</color>
+    <color name="Tana">#D9DCC1</color>
+    <color name="Tangaroa">#03163C</color>
+    <color name="Tangerine">#F28500</color>
+    <color name="Tango">#ED7A1C</color>
+    <color name="Tapa">#7B7874</color>
+    <color name="Tapestry">#B05E81</color>
+    <color name="Tara">#E1F6E8</color>
+    <color name="Tarawera">#073A50</color>
+    <color name="Tasman">#CFDCCF</color>
+    <color name="Taupe">#483C32</color>
+    <color name="TaupeGray">#B3AF95</color>
+    <color name="TawnyPort">#692545</color>
+    <color name="TePapaGreen">#1E433C</color>
+    <color name="Tea">#C1BAB0</color>
+    <color name="TeaGreen">#D0F0C0</color>
+    <color name="Teak">#B19461</color>
+    <color name="Teal">#008080</color>
+    <color name="TealBlue">#044259</color>
+    <color name="Temptress">#3B000B</color>
+    <color name="Tenn">#CD5700</color>
+    <color name="Tequila">#FFE6C7</color>
+    <color name="Terracotta">#E2725B</color>
+    <color name="Texas">#F8F99C</color>
+    <color name="TexasRose">#FFB555</color>
+    <color name="Thatch">#B69D98</color>
+    <color name="ThatchGreen">#403D19</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="ThistleGreen">#CCCAA8</color>
+    <color name="Thunder">#33292F</color>
+    <color name="Thunderbird">#C02B18</color>
+    <color name="TiaMaria">#C1440E</color>
+    <color name="Tiara">#C3D1D1</color>
+    <color name="Tiber">#063537</color>
+    <color name="TickleMePink">#FC80A5</color>
+    <color name="Tidal">#F1FFAD</color>
+    <color name="Tide">#BFB8B0</color>
+    <color name="TimberGreen">#16322C</color>
+    <color name="Timberwolf">#D9D6CF</color>
+    <color name="TitanWhite">#F0EEFF</color>
+    <color name="Toast">#9A6E61</color>
+    <color name="TobaccoBrown">#715D47</color>
+    <color name="Toledo">#3A0020</color>
+    <color name="Tolopea">#1B0245</color>
+    <color name="TomThumb">#3F583B</color>
+    <color name="TonysPink">#E79F8C</color>
+    <color name="Topaz">#7C778A</color>
+    <color name="TorchRed">#FD0E35</color>
+    <color name="ToreaBay">#0F2D9E</color>
+    <color name="ToryBlue">#1450AA</color>
+    <color name="Tosca">#8D3F3F</color>
+    <color name="TotemPole">#991B07</color>
+    <color name="TowerGray">#A9BDBF</color>
+    <color name="Tradewind">#5FB3AC</color>
+    <color name="Tranquil">#E6FFFF</color>
+    <color name="Travertine">#FFFDE8</color>
+    <color name="TreePoppy">#FC9C1D</color>
+    <color name="Treehouse">#3B2820</color>
+    <color name="TrendyGreen">#7C881A</color>
+    <color name="TrendyPink">#8C6495</color>
+    <color name="Trinidad">#E64E03</color>
+    <color name="TropicalBlue">#C3DDF9</color>
+    <color name="TropicalRainForest">#00755E</color>
+    <color name="Trout">#4A4E5A</color>
+    <color name="TrueV">#8A73D6</color>
+    <color name="Tuatara">#363534</color>
+    <color name="TuftBush">#FFDDCD</color>
+    <color name="TulipTree">#EAB33B</color>
+    <color name="Tumbleweed">#DEA681</color>
+    <color name="Tuna">#353542</color>
+    <color name="Tundora">#4A4244</color>
+    <color name="Turbo">#FAE600</color>
+    <color name="TurkishRose">#B57281</color>
+    <color name="Turmeric">#CABB48</color>
+    <color name="Turquoise">#30D5C8</color>
+    <color name="TurquoiseBlue">#6CDAE7</color>
+    <color name="TurtleGreen">#2A380B</color>
+    <color name="Tuscany">#BD5E2E</color>
+    <color name="Tusk">#EEF3C3</color>
+    <color name="Tussock">#C5994B</color>
+    <color name="Tutu">#FFF1F9</color>
+    <color name="Twilight">#E4CFDE</color>
+    <color name="TwilightBlue">#EEFDFF</color>
+    <color name="Twine">#C2955D</color>
+    <color name="TyrianPurple">#66023C</color>
+    <color name="Ultramarine">#120A8F</color>
+    <color name="UnderagePink">#F9E6F4</color>
+    <color name="Valencia">#D84437</color>
+    <color name="Valentino">#350E42</color>
+    <color name="Valhalla">#2B194F</color>
+    <color name="VanCleef">#49170C</color>
+    <color name="Vanilla">#D1BEA8</color>
+    <color name="VanillaIce">#F3D9DF</color>
+    <color name="Varden">#FFF6DF</color>
+    <color name="VenetianRed">#72010F</color>
+    <color name="VeniceBlue">#055989</color>
+    <color name="Venus">#928590</color>
+    <color name="Verdigris">#5D5E37</color>
+    <color name="VerdunGreen">#495400</color>
+    <color name="Vermilion">#FF4D00</color>
+    <color name="Vesuvius">#B14A0B</color>
+    <color name="Victoria">#534491</color>
+    <color name="VidaLoca">#549019</color>
+    <color name="Viking">#64CCDB</color>
+    <color name="VinRouge">#983D61</color>
+    <color name="Viola">#CB8FA9</color>
+    <color name="ViolentViolet">#290C5E</color>
+    <color name="Violet">#240A40</color>
+    <color name="VioletEggplant">#991199</color>
+    <color name="VioletRed">#F7468A</color>
+    <color name="Viridian">#40826D</color>
+    <color name="ViridianGreen">#678975</color>
+    <color name="VisVis">#FFEFA1</color>
+    <color name="VistaBlue">#8FD6B4</color>
+    <color name="VistaWhite">#FCF8F7</color>
+    <color name="VividTangerine">#FF9980</color>
+    <color name="VividViolet">#803790</color>
+    <color name="Voodoo">#533455</color>
+    <color name="Vulcan">#10121D</color>
+    <color name="Wafer">#DECBC6</color>
+    <color name="WaikawaGray">#5A6E9C</color>
+    <color name="Waiouru">#363C0D</color>
+    <color name="Walnut">#773F1A</color>
+    <color name="Wasabi">#788A25</color>
+    <color name="WaterLeaf">#A1E9DE</color>
+    <color name="Watercourse">#056F57</color>
+    <color name="Waterloo">#7B7C94</color>
+    <color name="Wattle">#DCD747</color>
+    <color name="Watusi">#FFDDCF</color>
+    <color name="WaxFlower">#FFC0A8</color>
+    <color name="WePeep">#F7DBE6</color>
+    <color name="WebOrange">#FFA500</color>
+    <color name="Wedgewood">#4E7F9E</color>
+    <color name="WellRead">#B43332</color>
+    <color name="WestCoast">#625119</color>
+    <color name="WestSide">#FF910F</color>
+    <color name="Westar">#DCD9D2</color>
+    <color name="Wewak">#F19BAB</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="Wheatfield">#F3EDCF</color>
+    <color name="Whiskey">#D59A6F</color>
+    <color name="Whisper">#F7F5FA</color>
+    <color name="White">#FFFFFF</color>
+    <color name="WhiteIce">#DDF9F1</color>
+    <color name="WhiteLilac">#F8F7FC</color>
+    <color name="WhiteLinen">#F8F0E8</color>
+    <color name="WhitePointer">#FEF8FF</color>
+    <color name="WhiteRock">#EAE8D4</color>
+    <color name="WildBlueYonder">#7A89B8</color>
+    <color name="WildRice">#ECE090</color>
+    <color name="WildSand">#F4F4F4</color>
+    <color name="WildStrawberry">#FF3399</color>
+    <color name="WildWatermelon">#FD5B78</color>
+    <color name="WildWillow">#B9C46A</color>
+    <color name="William">#3A686C</color>
+    <color name="WillowBrook">#DFECDA</color>
+    <color name="WillowGrove">#65745D</color>
+    <color name="Windsor">#3C0878</color>
+    <color name="WineBerry">#591D35</color>
+    <color name="WinterHazel">#D5D195</color>
+    <color name="WispPink">#FEF4F8</color>
+    <color name="Wisteria">#9771B5</color>
+    <color name="Wistful">#A4A6D3</color>
+    <color name="WitchHaze">#FFFC99</color>
+    <color name="WoodBark">#261105</color>
+    <color name="Woodland">#4D5328</color>
+    <color name="Woodrush">#302A0F</color>
+    <color name="Woodsmoke">#0C0D0F</color>
+    <color name="WoodyBrown">#483131</color>
+    <color name="Xanadu">#738678</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="YellowGreen">#C5E17A</color>
+    <color name="YellowMetal">#716338</color>
+    <color name="YellowOrange">#FFAE42</color>
+    <color name="YellowSea">#FEA904</color>
+    <color name="YourPink">#FFC3C0</color>
+    <color name="YukonGold">#7B6608</color>
+    <color name="Yuma">#CEC291</color>
+    <color name="Zambezi">#685558</color>
+    <color name="Zanah">#DAECD6</color>
+    <color name="Zest">#E5841B</color>
+    <color name="Zeus">#292319</color>
+    <color name="Ziggurat">#BFDBE2</color>
+    <color name="Zinnwaldite">#EBC2AF</color>
+    <color name="Zircon">#F4F8FF</color>
+    <color name="Zombie">#E4D69B</color>
+    <color name="Zorba">#A59B91</color>
+    <color name="Zuccini">#044022</color>
+    <color name="Zumthor">#EDF6FF</color>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <eat-comment/>
+    <color name="abc_input_method_navigation_guard">@android:color/black</color>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="accent_material_dark">@color/material_deep_teal_200</color>
+    <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="background_floating_material_dark">#ff424242</color>
+    <color name="background_floating_material_light">#ffeeeeee</color>
+    <color name="background_material_dark">#ff303030</color>
+    <color name="background_material_light">#ffeeeeee</color>
+    <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color name="bright_foreground_disabled_material_light">#80000000</color>
+    <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+    <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+    <color name="dim_foreground_disabled_material_light">#80323232</color>
+    <color name="dim_foreground_material_dark">#ffbebebe</color>
+    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
+    <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color name="link_text_material_dark">@color/material_deep_teal_200</color>
+    <color name="link_text_material_light">@color/material_deep_teal_500</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="primary_dark_material_dark">#ff000000</color>
+    <color name="primary_dark_material_light">#ff757575</color>
+    <color name="primary_material_dark">#ff212121</color>
+    <color name="primary_material_light">#ffefefef</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#de000000</color>
+    <color name="primary_text_disabled_material_dark">#4Dffffff</color>
+    <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="ripple_material_dark">#4dffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
+    <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
+    <declare-styleable name="ActionMenuView"/>
+    <declare-styleable name="ActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/><attr format="reference" name="closeItemLayout"/></declare-styleable>
+    <declare-styleable name="ActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/></declare-styleable>
+    <declare-styleable name="AlertDialog"><attr name="android:layout"/><attr format="reference" name="buttonPanelSideLayout"/><attr format="reference" name="listLayout"/><attr format="reference" name="multiChoiceItemLayout"/><attr format="reference" name="singleChoiceItemLayout"/><attr format="reference" name="listItemLayout"/></declare-styleable>
+    <declare-styleable name="AppCompatTextView"><attr format="reference|boolean" name="textAllCaps"/><attr name="android:textAppearance"/></declare-styleable>
+    <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="topBottomBarArrowSize"/><attr format="dimension" name="middleBarArrowSize"/><attr format="dimension" name="barSize"/><attr format="dimension" name="thickness"/></declare-styleable>
+    <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
+    <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
+    <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
+    <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/></declare-styleable>
+    <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
+    <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
+    <declare-styleable name="Spinner"><attr format="reference" name="prompt"/><attr format="enum" name="spinnerMode"><enum name="dialog" value="0"/><enum name="dropdown" value="1"/></attr><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr format="reference" name="popupPromptView"/><attr name="android:gravity"/><attr format="boolean" name="disableChildrenWhenDisabled"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="reference" name="track"/><attr name="android:textOn"/><attr name="android:textOff"/><attr format="dimension" name="thumbTextPadding"/><attr format="reference" name="switchTextAppearance"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchPadding"/><attr format="boolean" name="splitTrack"/><attr format="boolean" name="showText"/></declare-styleable>
+    <declare-styleable name="TextAppearance"><attr name="android:textSize"/><attr name="android:textColor"/><attr name="android:textStyle"/><attr name="android:typeface"/><attr name="textAllCaps"/></declare-styleable>
+    <declare-styleable name="Theme"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowNoTitle"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr format="dimension|fraction" name="windowFixedWidthMajor"/><attr format="dimension|fraction" name="windowFixedHeightMinor"/><attr format="dimension|fraction" name="windowFixedWidthMinor"/><attr format="dimension|fraction" name="windowFixedHeightMajor"/><attr format="dimension|fraction" name="windowMinWidthMajor"/><attr format="dimension|fraction" name="windowMinWidthMinor"/><attr name="android:windowIsFloating"/><attr name="android:windowAnimationStyle"/><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionOverflowMenuStyle"/><attr format="reference" name="actionBarPopupTheme"/><attr format="reference" name="actionBarStyle"/><attr format="reference" name="actionBarSplitStyle"/><attr format="reference" name="actionBarTheme"/><attr format="reference" name="actionBarWidgetTheme"/><attr format="dimension" name="actionBarSize"><enum name="wrap_content" value="0"/></attr><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionBarItemBackground"/><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeStyle"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeSplitBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="actionModeCutDrawable"/><attr format="reference" name="actionModeCopyDrawable"/><attr format="reference" name="actionModePasteDrawable"/><attr format="reference" name="actionModeSelectAllDrawable"/><attr format="reference" name="actionModeShareDrawable"/><attr format="reference" name="actionModeFindDrawable"/><attr format="reference" name="actionModeWebSearchDrawable"/><attr format="reference" name="actionModePopupWindowStyle"/><attr format="reference" name="textAppearanceLargePopupMenu"/><attr format="reference" name="textAppearanceSmallPopupMenu"/><attr format="reference" name="dialogTheme"/><attr format="dimension" name="dialogPreferredPadding"/><attr format="reference" name="listDividerAlertDialog"/><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="spinnerDropDownItemStyle"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="selectableItemBackgroundBorderless"/><attr format="reference" name="dividerVertical"/><attr format="reference" name="dividerHorizontal"/><attr format="reference" name="activityChooserViewStyle"/><attr format="reference" name="toolbarStyle"/><attr format="reference" name="toolbarNavigationButtonStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="reference" name="popupWindowStyle"/><attr format="reference|color" name="editTextColor"/><attr format="reference" name="editTextBackground"/><attr format="reference" name="textAppearanceSearchResultTitle"/><attr format="reference" name="textAppearanceSearchResultSubtitle"/><attr format="reference|color" name="textColorSearchUrl"/><attr format="reference" name="searchViewStyle"/><attr format="dimension" name="listPreferredItemHeight"/><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="dimension" name="listPreferredItemHeightLarge"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="dimension" name="listPreferredItemPaddingRight"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="textAppearanceListItem"/><attr format="reference" name="textAppearanceListItemSmall"/><attr format="reference" name="panelBackground"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/><attr format="color" name="colorPrimary"/><attr format="color" name="colorPrimaryDark"/><attr format="color" name="colorAccent"/><attr format="color" name="colorControlNormal"/><attr format="color" name="colorControlActivated"/><attr format="color" name="colorControlHighlight"/><attr format="color" name="colorButtonNormal"/><attr format="color" name="colorSwitchThumbNormal"/><attr format="reference" name="alertDialogStyle"/><attr format="reference" name="alertDialogButtonGroupStyle"/><attr format="boolean" name="alertDialogCenterButtons"/><attr format="reference" name="alertDialogTheme"/><attr format="reference|color" name="textColorAlertDialogListItem"/><attr format="reference" name="buttonBarPositiveButtonStyle"/><attr format="reference" name="buttonBarNegativeButtonStyle"/><attr format="reference" name="buttonBarNeutralButtonStyle"/><attr format="reference" name="autoCompleteTextViewStyle"/><attr format="reference" name="buttonStyle"/><attr format="reference" name="buttonStyleSmall"/><attr format="reference" name="checkboxStyle"/><attr format="reference" name="checkedTextViewStyle"/><attr format="reference" name="editTextStyle"/><attr format="reference" name="radioButtonStyle"/><attr format="reference" name="ratingBarStyle"/><attr format="reference" name="spinnerStyle"/><attr format="reference" name="switchStyle"/></declare-styleable>
+    <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/></declare-styleable>
+    <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
+    <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
+    <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">56dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding_material">16dp</dimen>
+    <dimen name="abc_action_bar_navigation_padding_start_material">0dp</dimen>
+    <dimen name="abc_action_bar_overflow_padding_end_material">10dp</dimen>
+    <dimen name="abc_action_bar_overflow_padding_start_material">6dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin_material">5dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin_material">-3dp</dimen>
+    <dimen name="abc_action_button_min_height_material">48dp</dimen>
+    <dimen name="abc_action_button_min_width_material">48dp</dimen>
+    <dimen name="abc_action_button_min_width_overflow_material">36dp</dimen>
+    <dimen name="abc_alert_dialog_button_bar_height">48dp</dimen>
+    <dimen name="abc_button_inset_horizontal_material">@dimen/abc_control_inset_material</dimen>
+    <dimen name="abc_button_inset_vertical_material">6dp</dimen>
+    <dimen name="abc_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="abc_button_padding_vertical_material">@dimen/abc_control_padding_material</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_control_corner_material">2dp</dimen>
+    <dimen name="abc_control_inset_material">4dp</dimen>
+    <dimen name="abc_control_padding_material">4dp</dimen>
+    <dimen name="abc_dialog_list_padding_vertical_material">8dp</dimen>
+    <item name="abc_dialog_min_width_major" type="dimen">65%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">95%</item>
+    <dimen name="abc_dialog_padding_material">24dp</dimen>
+    <dimen name="abc_dialog_padding_top_material">18dp</dimen>
+    <item format="float" name="abc_disabled_alpha_material_dark" type="dimen">0.30</item>
+    <item format="float" name="abc_disabled_alpha_material_light" type="dimen">0.26</item>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_edit_text_inset_bottom_material">7dp</dimen>
+    <dimen name="abc_edit_text_inset_horizontal_material">4dp</dimen>
+    <dimen name="abc_edit_text_inset_top_material">10dp</dimen>
+    <dimen name="abc_floating_window_z">16dp</dimen>
+    <dimen name="abc_list_item_padding_horizontal_material">@dimen/abc_action_bar_content_inset_material</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <dimen name="abc_switch_padding">3dp</dimen>
+    <dimen name="abc_text_size_body_1_material">14sp</dimen>
+    <dimen name="abc_text_size_body_2_material">14sp</dimen>
+    <dimen name="abc_text_size_button_material">14sp</dimen>
+    <dimen name="abc_text_size_caption_material">12sp</dimen>
+    <dimen name="abc_text_size_display_1_material">34sp</dimen>
+    <dimen name="abc_text_size_display_2_material">45sp</dimen>
+    <dimen name="abc_text_size_display_3_material">56sp</dimen>
+    <dimen name="abc_text_size_display_4_material">112sp</dimen>
+    <dimen name="abc_text_size_headline_material">24sp</dimen>
+    <dimen name="abc_text_size_large_material">22sp</dimen>
+    <dimen name="abc_text_size_medium_material">18sp</dimen>
+    <dimen name="abc_text_size_menu_material">16sp</dimen>
+    <dimen name="abc_text_size_small_material">14sp</dimen>
+    <dimen name="abc_text_size_subhead_material">16sp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material">20sp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <eat-comment/>
+    <item name="dialog_fixed_height_major" type="dimen">80%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">100%</item>
+    <item name="dialog_fixed_width_major" type="dimen">320dp</item>
+    <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
+    <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
+    <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <eat-comment/>
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_bar_spinner" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <item name="home" type="id"/>
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+    <item name="split_action_bar" type="id"/>
+    <item name="up" type="id"/>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">About</string>
+    <string name="app_name">VDHCN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_title">VIDEO DISSEMINATION OVER HYBRID CELLULAR AND AD-HOC NETWORKS</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="title_activity_about">"About "</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_registration">Register</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
+    <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
+    <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
+    <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <!-- From: file:/Users/anirudhwarrier/AndroidstudioProjects/VDHCN/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
+        <item name="android:layout">@layout/abc_alert_dialog_material</item>
+        <item name="listLayout">@layout/abc_select_dialog_material</item>
+        <item name="listItemLayout">@layout/select_dialog_item_material</item>
+        <item name="multiChoiceItemLayout">@layout/select_dialog_multichoice_material</item>
+        <item name="singleChoiceItemLayout">@layout/select_dialog_singlechoice_material</item>
+    </style>
+    <style name="Base.AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat"/>
+    <style name="Base.Animation.AppCompat.Dialog" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/abc_popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/abc_popup_exit</item>
+    </style>
+    <style name="Base.Animation.AppCompat.DropDownUp" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/abc_shrink_fade_out_from_bottom</item>
+    </style>
+    <style name="Base.DialogWindowTitle.AppCompat" parent="android:Widget">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+    </style>
+    <style name="Base.DialogWindowTitleBackground.AppCompat" parent="android:Widget">
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">?attr/dialogPreferredPadding</item>
+        <item name="android:paddingRight">?attr/dialogPreferredPadding</item>
+        <item name="android:paddingTop">@dimen/abc_dialog_padding_top_material</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorHighlight">?android:textColorHighlight</item>
+        <item name="android:textColorLink">?android:textColorLink</item>
+        <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body2">
+        <item name="android:textSize">@dimen/abc_text_size_body_2_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">@dimen/abc_text_size_caption_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display1">
+        <item name="android:textSize">@dimen/abc_text_size_display_1_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display2">
+        <item name="android:textSize">@dimen/abc_text_size_display_2_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display3">
+        <item name="android:textSize">@dimen/abc_text_size_display_3_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display4">
+        <item name="android:textSize">@dimen/abc_text_size_display_4_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Headline">
+        <item name="android:textSize">@dimen/abc_text_size_headline_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large">
+        <item name="android:textSize">@dimen/abc_text_size_large_material</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium">
+        <item name="android:textSize">@dimen/abc_text_size_medium_material</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Menu">
+        <item name="android:textSize">@dimen/abc_text_size_menu_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small">
+        <item name="android:textSize">@dimen/abc_text_size_small_material</item>
+        <item name="android:textColor">?android:attr/textColorTertiary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorTertiaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subhead_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title.Inverse">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+        <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Subhead.Inverse">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Title.Inverse">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Switch" parent="TextAppearance.AppCompat.Button"/>
+    <style name="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="TextAppearance.AppCompat.Menu"/>
+    <style name="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+    </style>
+    <style name="Base.Theme.AppCompat" parent="Base.V7.Theme.AppCompat">
+    </style>
+    <style name="Base.Theme.AppCompat.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+        <item name="android:windowAnimationStyle">@style/Animation.AppCompat.DropDownUp</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog" parent="Base.V7.Theme.AppCompat.Dialog"/>
+    <style name="Base.Theme.AppCompat.Dialog.Alert">
+        <item name="windowMinWidthMajor">@dimen/abc_dialog_min_width_major</item>
+        <item name="windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog.FixedSize">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog.MinWidth">
+        <item name="windowMinWidthMajor">@dimen/abc_dialog_min_width_major</item>
+        <item name="windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Theme.AppCompat"/>
+    <style name="Base.Theme.AppCompat.Light" parent="Base.V7.Theme.AppCompat.Light">
+    </style>
+    <style name="Base.Theme.AppCompat.Light.DarkActionBar" parent="Base.Theme.AppCompat.Light">
+        <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="Base.V7.Theme.AppCompat.Light.Dialog"/>
+    <style name="Base.Theme.AppCompat.Light.Dialog.Alert">
+        <item name="windowMinWidthMajor">@dimen/abc_dialog_min_width_major</item>
+        <item name="windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog.FixedSize">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="windowMinWidthMajor">@dimen/abc_dialog_min_width_major</item>
+        <item name="windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.AppCompat.Light"/>
+    <style name="Base.ThemeOverlay.AppCompat" parent=""/>
+    <style name="Base.ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">?android:attr/textColorPrimary</item>
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView.ActionBar</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark">
+        <item name="android:windowBackground">@color/background_material_dark</item>
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorButtonNormal">@color/button_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_material_dark</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">?android:attr/textColorPrimary</item>
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView.ActionBar</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Light" parent="Platform.ThemeOverlay.AppCompat.Light">
+        <item name="android:windowBackground">@color/background_material_light</item>
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+        <item name="colorButtonNormal">@color/button_material_light</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_material_light</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">true</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat" parent="Platform.AppCompat">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+
+        <!-- Spinner styles -->
+        <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+
+        <item name="editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+        <item name="autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorPrimary">@color/primary_material_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+        <item name="colorButtonNormal">@color/button_material_dark</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_material_dark</item>
+
+        <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
+
+        <item name="checkboxStyle">@style/Widget.AppCompat.CompoundButton.CheckBox</item>
+        <item name="radioButtonStyle">@style/Widget.AppCompat.CompoundButton.RadioButton</item>
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+
+        <item name="ratingBarStyle">@style/Widget.AppCompat.RatingBar</item>
+
+        <!-- Button styles -->
+        <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="buttonStyleSmall">@style/Widget.AppCompat.Button.Small</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Button</item>
+
+        <item name="buttonBarStyle">@style/Widget.AppCompat.ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/Widget.AppCompat.Button.ButtonBar.AlertDialog</item>
+        <item name="buttonBarPositiveButtonStyle">?attr/buttonBarButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">?attr/buttonBarButtonStyle</item>
+        <item name="buttonBarNeutralButtonStyle">?attr/buttonBarButtonStyle</item>
+
+        <!-- Dialog attributes -->
+        <item name="dialogTheme">@style/Theme.AppCompat.Dialog</item>
+        <item name="dialogPreferredPadding">@dimen/abc_dialog_padding_material</item>
+
+        <item name="alertDialogTheme">@style/Theme.AppCompat.Dialog.Alert</item>
+        <item name="alertDialogStyle">@style/AlertDialog.AppCompat</item>
+        <item name="alertDialogCenterButtons">false</item>
+        <item name="textColorAlertDialogListItem">@color/abc_primary_text_material_dark</item>
+        <item name="listDividerAlertDialog">@null</item>
+
+        <!-- Define these here; ContextThemeWrappers around themes that define them should
+             always clear these values. -->
+        <item name="windowFixedWidthMajor">0dp</item>
+        <item name="windowFixedWidthMinor">0dp</item>
+        <item name="windowFixedHeightMajor">0dp</item>
+        <item name="windowFixedHeightMinor">0dp</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Dialog" parent="Base.Theme.AppCompat">
+        <item name="android:colorBackground">@color/background_floating_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowTitleStyle">@style/Base.DialogWindowTitle.AppCompat</item>
+        <item name="android:windowTitleBackgroundStyle">@style/Base.DialogWindowTitleBackground.AppCompat</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background_dark</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Animation.AppCompat.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+
+        <item name="listPreferredItemPaddingLeft">24dip</item>
+        <item name="listPreferredItemPaddingRight">24dip</item>
+
+        <item name="android:listDivider">@null</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Light" parent="Platform.AppCompat.Light">
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">true</item>
+
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="selectableItemBackgroundBorderless">?attr/selectableItemBackground</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+
+        <item name="dividerVertical">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_mtrl_alpha</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionOverflowMenuStyle">@style/Widget.AppCompat.Light.PopupMenu.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height_material</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
+        <item name="actionModeSplitBackground">?attr/colorPrimaryDark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+
+        <!-- List attributes -->
+        <item name="textAppearanceListItem">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="textAppearanceListItemSmall">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="listPreferredItemHeight">64dp</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+
+        <!-- Spinner styles -->
+        <item name="spinnerStyle">@style/Widget.AppCompat.Spinner</item>
+        <item name="android:spinnerItemStyle">@style/Widget.AppCompat.TextView.SpinnerItem</item>
+        <item name="android:dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchViewStyle">@style/Widget.AppCompat.Light.SearchView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text</item>
+        <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">@style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+
+        <!-- Toolbar styles -->
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
+        <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
+
+        <item name="editTextStyle">@style/Widget.AppCompat.EditText</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="editTextColor">?android:attr/textColorPrimary</item>
+        <item name="autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+
+        <!-- Color palette -->
+        <item name="colorPrimaryDark">@color/primary_dark_material_light</item>
+        <item name="colorPrimary">@color/primary_material_light</item>
+        <item name="colorAccent">@color/accent_material_light</item>
+
+        <item name="colorControlNormal">?android:attr/textColorSecondary</item>
+        <item name="colorControlActivated">?attr/colorAccent</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+        <item name="colorButtonNormal">@color/button_material_light</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_material_light</item>
+
+        <item name="drawerArrowStyle">@style/Widget.AppCompat.DrawerArrowToggle</item>
+
+        <item name="checkboxStyle">@style/Widget.AppCompat.CompoundButton.CheckBox</item>
+        <item name="radioButtonStyle">@style/Widget.AppCompat.CompoundButton.RadioButton</item>
+        <item name="switchStyle">@style/Widget.AppCompat.CompoundButton.Switch</item>
+
+        <item name="ratingBarStyle">@style/Widget.AppCompat.RatingBar</item>
+
+        <!-- Button styles -->
+        <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="buttonStyleSmall">@style/Widget.AppCompat.Button.Small</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.AppCompat.Button</item>
+
+        <item name="buttonBarStyle">@style/Widget.AppCompat.ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/Widget.AppCompat.Button.ButtonBar.AlertDialog</item>
+        <item name="buttonBarPositiveButtonStyle">?attr/buttonBarButtonStyle</item>
+        <item name="buttonBarNegativeButtonStyle">?attr/buttonBarButtonStyle</item>
+        <item name="buttonBarNeutralButtonStyle">?attr/buttonBarButtonStyle</item>
+
+        <!-- Dialog attributes -->
+        <item name="dialogTheme">@style/Theme.AppCompat.Light.Dialog</item>
+        <item name="dialogPreferredPadding">@dimen/abc_dialog_padding_material</item>
+
+        <item name="alertDialogTheme">@style/Theme.AppCompat.Light.Dialog.Alert</item>
+        <item name="alertDialogStyle">@style/AlertDialog.AppCompat.Light</item>
+        <item name="alertDialogCenterButtons">false</item>
+        <item name="textColorAlertDialogListItem">@color/abc_primary_text_material_light</item>
+        <item name="listDividerAlertDialog">@null</item>
+
+        <!-- Define these here; ContextThemeWrappers around themes that define them should
+             always clear these values. -->
+        <item name="windowFixedWidthMajor">0dp</item>
+        <item name="windowFixedWidthMinor">0dp</item>
+        <item name="windowFixedHeightMajor">0dp</item>
+        <item name="windowFixedHeightMinor">0dp</item>
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Light.Dialog" parent="Base.Theme.AppCompat.Light">
+        <item name="android:colorBackground">@color/background_floating_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowTitleStyle">@style/Base.DialogWindowTitle.AppCompat</item>
+        <item name="android:windowTitleBackgroundStyle">@style/Base.DialogWindowTitleBackground.AppCompat</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background_light</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Animation.AppCompat.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+
+        <item name="listPreferredItemPaddingLeft">24dip</item>
+        <item name="listPreferredItemPaddingRight">24dip</item>
+
+        <item name="android:listDivider">@null</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar" parent="">
+        <item name="displayOptions">showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+
+        <item name="background">@null</item>
+        <item name="backgroundStacked">@null</item>
+        <item name="backgroundSplit">@null</item>
+
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+
+        <item name="android:gravity">center_vertical</item>
+        <item name="contentInsetStart">@dimen/abc_action_bar_content_inset_material</item>
+        <item name="contentInsetEnd">@dimen/abc_action_bar_content_inset_material</item>
+        <item name="elevation">8dp</item>
+        <item name="popupTheme">?attr/actionBarPopupTheme</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.Solid">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="backgroundStacked">?attr/colorPrimary</item>
+        <item name="backgroundSplit">?attr/colorPrimary</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">8dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:maxWidth">180dp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_material</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.CloseMode">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:minWidth">56dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_mtrl_alpha</item>
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:contentDescription">@string/abc_action_menu_overflow_description</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_overflow_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+        <item name="closeItemLayout">@layout/abc_action_mode_close_item_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_mtrl_alpha</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:background">?attr/editTextBackground</item>
+        <item name="android:textColor">?attr/editTextColor</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button" parent="android:Widget">
+        <item name="android:background">@drawable/abc_btn_default_mtrl_shape</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">88dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/abc_btn_borderless_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:textColor">?attr/colorAccent</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.ButtonBar.AlertDialog" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:minWidth">64dp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:minHeight">@dimen/abc_alert_dialog_button_bar_height</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Small">
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">48dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ButtonBar" parent="android:Widget">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ButtonBar.AlertDialog">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="Base.Widget.AppCompat.CompoundButton.CheckBox" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:button">?android:attr/listChoiceIndicatorMultiple</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="Base.Widget.AppCompat.CompoundButton.RadioButton" parent="android:Widget.CompoundButton.RadioButton">
+        <item name="android:button">?android:attr/listChoiceIndicatorSingle</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="Base.Widget.AppCompat.CompoundButton.Switch" parent="android:Widget.CompoundButton">
+        <item name="track">@drawable/abc_switch_track_mtrl_alpha</item>
+        <item name="android:thumb">@drawable/abc_switch_thumb_material</item>
+        <item name="switchTextAppearance">@style/TextAppearance.AppCompat.Widget.Switch</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="showText">false</item>
+        <item name="android:padding">@dimen/abc_switch_padding</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+        <item name="barSize">18dp</item>
+        <item name="gapBetweenBars">3dp</item>
+        <item name="drawableSize">24dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle.Common" parent="">
+        <item name="color">?android:attr/textColorSecondary</item>
+        <item name="middleBarArrowSize">16dp</item>
+        <item name="spinBars">true</item>
+        <item name="thickness">2dp</item>
+        <item name="topBottomBarArrowSize">11.31dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Base.Widget.AppCompat.EditText" parent="android:Widget.EditText">
+        <item name="android:background">?attr/editTextBackground</item>
+        <item name="android:textColor">?attr/editTextColor</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="backgroundStacked">?attr/colorPrimary</item>
+        <item name="backgroundSplit">?attr/colorPrimary</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabBar" parent="Base.Widget.AppCompat.ActionBar.TabBar">
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="Base.Widget.AppCompat.ActionBar.TabText">
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Base.Widget.AppCompat.Light.ActionBar.TabText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="Base.Widget.AppCompat.ActionBar.TabView">
+        <item name="android:background">@drawable/abc_tab_indicator_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow">
+    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownHorizontalOffset">-4dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListView" parent="android:Widget.ListView">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.DropDown">
+        <item name="android:divider">@null</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+    <style name="Base.Widget.AppCompat.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow">
+    </style>
+    <style name="Base.Widget.AppCompat.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownHorizontalOffset">-4dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.PopupWindow" parent="android:Widget.PopupWindow">
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar" parent="android:Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/abc_ratingbar_full_material</item>
+        <item name="android:indeterminateDrawable">@drawable/abc_ratingbar_full_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.SearchView" parent="android:Widget">
+        <item name="layout">@layout/abc_search_view</item>
+        <item name="queryBackground">@drawable/abc_textfield_search_material</item>
+        <item name="submitBackground">@drawable/abc_textfield_search_material</item>
+        <item name="closeIcon">@drawable/abc_ic_clear_mtrl_alpha</item>
+        <item name="searchIcon">@drawable/abc_ic_search_api_mtrl_alpha</item>
+        <item name="searchHintIcon">@drawable/abc_ic_search_api_mtrl_alpha</item>
+        <item name="goIcon">@drawable/abc_ic_go_search_api_mtrl_alpha</item>
+        <item name="voiceIcon">@drawable/abc_ic_voice_search_api_mtrl_alpha</item>
+        <item name="commitIcon">@drawable/abc_ic_commit_search_api_mtrl_alpha</item>
+        <item name="suggestionRowLayout">@layout/abc_search_dropdown_item_icons_2line</item>
+    </style>
+    <style name="Base.Widget.AppCompat.SearchView.ActionBar">
+        <item name="queryBackground">@null</item>
+        <item name="submitBackground">@null</item>
+        <item name="searchHintIcon">@null</item>
+        <item name="queryHint">@string/abc_search_hint</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner" parent="android:Widget.Spinner">
+        <item name="android:background">@drawable/abc_spinner_mtrl_am_alpha</item>
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.DropDown.ActionBar" parent="android:Widget">
+        <item name="spinnerMode">dropdown</item>
+
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_mtrl_am_alpha</item>
+        <item name="android:dropDownSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:popupBackground">@drawable/abc_popup_background_mtrl_mult</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="popupPromptView">@layout/abc_simple_dropdown_hint</item>
+        <item name="android:gravity">left|start|center_vertical</item>
+        <item name="disableChildrenWhenDisabled">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.Underlined">
+        <item name="android:background">@drawable/abc_spinner_textfield_background_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="android:Widget.TextView.SpinnerItem">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.TextView.SpinnerItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar" parent="android:Widget">
+        <item name="titleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Title</item>
+        <item name="subtitleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="titleMargins">4dp</item>
+        <item name="maxButtonHeight">56dp</item>
+        <item name="collapseIcon">?attr/homeAsUpIndicator</item>
+        <item name="collapseContentDescription">@string/abc_toolbar_collapse_description</item>
+        <item name="contentInsetStart">16dp</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget">
+        <item name="android:minWidth">56dp</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+    <style name="Platform.AppCompat" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_dark</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+        <item name="android:disabledAlpha">@dimen/abc_disabled_alpha_material_dark</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_dark</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
+        <item name="android:textColorLink">@color/link_text_material_dark</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- Window colors -->
+        <item name="android:colorForeground">@color/bright_foreground_material_light</item>
+        <item name="android:colorForegroundInverse">@color/bright_foreground_material_dark</item>
+        <item name="android:colorBackground">@color/background_material_light</item>
+        <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:disabledAlpha">@dimen/abc_disabled_alpha_material_light</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/background_material_light</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorTertiaryInverse">@color/abc_secondary_text_material_dark</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
+        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
+        <item name="android:textColorLink">@color/link_text_material_light</item>
+
+        <!-- Text styles -->
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+        <item name="android:textAppearanceInverse">@style/TextAppearance.AppCompat.Inverse</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textAppearanceLargeInverse">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextAppearance.AppCompat.Medium.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
+        <item name="android:textAppearanceSmallInverse">@style/TextAppearance.AppCompat.Small.Inverse</item>
+
+        <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
+    </style>
+    <style name="Platform.ThemeOverlay.AppCompat.Dark" parent="">
+        <!-- Action Bar styles -->
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+
+        <!-- SearchView styles -->
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+    </style>
+    <style name="Platform.ThemeOverlay.AppCompat.Light" parent="">
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+
+        <!-- SearchView attributes -->
+        <item name="android:autoCompleteTextViewStyle">@style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
+        <item name="android:layout_gravity">center_vertical|left</item>
+        <item name="android:paddingRight">8dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.Overflow" parent="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
+        <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="android:Widget">
+        <item name="android:paddingRight">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="android:Widget">
+        <item name="android:layout_marginLeft">16dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="android:Widget">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="android:Widget">
+        <item name="android:paddingLeft">@dimen/abc_dropdownitem_text_padding_left</item>
+        <item name="android:paddingRight">4dp</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1" parent="android:Widget">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2" parent="android:Widget">
+        <item name="android:layout_toLeftOf">@id/edit_query</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Query" parent="android:Widget">
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Text" parent="Base.Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:layout_toLeftOf">@android:id/icon2</item>
+        <item name="android:layout_toRightOf">@android:id/icon1</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
+        <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:paddingLeft">@dimen/abc_action_bar_navigation_padding_start_material</item>
+    </style>
+    <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
+    <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
+    <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>
+    <style name="TextAppearance.AppCompat.Button" parent="Base.TextAppearance.AppCompat.Button"/>
+    <style name="TextAppearance.AppCompat.Caption" parent="Base.TextAppearance.AppCompat.Caption"/>
+    <style name="TextAppearance.AppCompat.Display1" parent="Base.TextAppearance.AppCompat.Display1"/>
+    <style name="TextAppearance.AppCompat.Display2" parent="Base.TextAppearance.AppCompat.Display2"/>
+    <style name="TextAppearance.AppCompat.Display3" parent="Base.TextAppearance.AppCompat.Display3"/>
+    <style name="TextAppearance.AppCompat.Display4" parent="Base.TextAppearance.AppCompat.Display4"/>
+    <style name="TextAppearance.AppCompat.Headline" parent="Base.TextAppearance.AppCompat.Headline"/>
+    <style name="TextAppearance.AppCompat.Inverse" parent="Base.TextAppearance.AppCompat.Inverse"/>
+    <style name="TextAppearance.AppCompat.Large" parent="Base.TextAppearance.AppCompat.Large"/>
+    <style name="TextAppearance.AppCompat.Large.Inverse" parent="Base.TextAppearance.AppCompat.Large.Inverse"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large">
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small">
+    </style>
+    <style name="TextAppearance.AppCompat.Medium" parent="Base.TextAppearance.AppCompat.Medium"/>
+    <style name="TextAppearance.AppCompat.Medium.Inverse" parent="Base.TextAppearance.AppCompat.Medium.Inverse"/>
+    <style name="TextAppearance.AppCompat.Menu" parent="Base.TextAppearance.AppCompat.Menu"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="Base.TextAppearance.AppCompat.SearchResult.Subtitle">
+    </style>
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="Base.TextAppearance.AppCompat.SearchResult.Title">
+    </style>
+    <style name="TextAppearance.AppCompat.Small" parent="Base.TextAppearance.AppCompat.Small"/>
+    <style name="TextAppearance.AppCompat.Small.Inverse" parent="Base.TextAppearance.AppCompat.Small.Inverse"/>
+    <style name="TextAppearance.AppCompat.Subhead" parent="Base.TextAppearance.AppCompat.Subhead"/>
+    <style name="TextAppearance.AppCompat.Subhead.Inverse" parent="Base.TextAppearance.AppCompat.Subhead.Inverse"/>
+    <style name="TextAppearance.AppCompat.Title" parent="Base.TextAppearance.AppCompat.Title"/>
+    <style name="TextAppearance.AppCompat.Title.Inverse" parent="Base.TextAppearance.AppCompat.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.ActionMode.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="Base.TextAppearance.AppCompat.Widget.ActionMode.Title">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.ActionMode.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="Base.TextAppearance.AppCompat.Widget.DropDownItem">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small">
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
+    <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item">
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
+    </style>
+    <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
+    <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
+    <style name="Theme.AppCompat.Dialog" parent="Base.Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.Dialog.Alert" parent="Base.Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.Dialog.MinWidth" parent="Base.Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.Light" parent="Base.Theme.AppCompat.Light"/>
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Base.Theme.AppCompat.Light.DarkActionBar"/>
+    <style name="Theme.AppCompat.Light.Dialog" parent="Base.Theme.AppCompat.Light.Dialog"/>
+    <style name="Theme.AppCompat.Light.Dialog.Alert" parent="Base.Theme.AppCompat.Light.Dialog.Alert"/>
+    <style name="Theme.AppCompat.Light.Dialog.MinWidth" parent="Base.Theme.AppCompat.Light.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
+    <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Base.Widget.AppCompat.ActionBar.TabBar">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Base.Widget.AppCompat.ActionBar.TabText">
+    </style>
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Base.Widget.AppCompat.ActionBar.TabView">
+    </style>
+    <style name="Widget.AppCompat.ActionButton" parent="Base.Widget.AppCompat.ActionButton"/>
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="Base.Widget.AppCompat.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="RtlOverlay.Widget.AppCompat.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.ActionMode" parent="Base.Widget.AppCompat.ActionMode">
+    </style>
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Base.Widget.AppCompat.ActivityChooserView">
+    </style>
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Base.Widget.AppCompat.AutoCompleteTextView">
+    </style>
+    <style name="Widget.AppCompat.Button" parent="Base.Widget.AppCompat.Button"/>
+    <style name="Widget.AppCompat.Button.Borderless" parent="Base.Widget.AppCompat.Button.Borderless"/>
+    <style name="Widget.AppCompat.Button.Borderless.Colored" parent="Base.Widget.AppCompat.Button.Borderless.Colored"/>
+    <style name="Widget.AppCompat.Button.ButtonBar.AlertDialog" parent="Base.Widget.AppCompat.Button.ButtonBar.AlertDialog"/>
+    <style name="Widget.AppCompat.Button.Small" parent="Base.Widget.AppCompat.Button.Small"/>
+    <style name="Widget.AppCompat.ButtonBar" parent="Base.Widget.AppCompat.ButtonBar"/>
+    <style name="Widget.AppCompat.ButtonBar.AlertDialog" parent="Base.Widget.AppCompat.ButtonBar.AlertDialog"/>
+    <style name="Widget.AppCompat.CompoundButton.CheckBox" parent="Base.Widget.AppCompat.CompoundButton.CheckBox"/>
+    <style name="Widget.AppCompat.CompoundButton.RadioButton" parent="Base.Widget.AppCompat.CompoundButton.RadioButton"/>
+    <style name="Widget.AppCompat.CompoundButton.Switch" parent="Base.Widget.AppCompat.CompoundButton.Switch"/>
+    <style name="Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">?attr/colorControlNormal</item>
+    </style>
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="RtlOverlay.Widget.AppCompat.Search.DropDown.Text"/>
+    <style name="Widget.AppCompat.EditText" parent="Base.Widget.AppCompat.EditText">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Base.Widget.AppCompat.Light.ActionBar">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Base.Widget.AppCompat.Light.ActionBar.Solid">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Base.Widget.AppCompat.Light.ActionBar.TabBar">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Base.Widget.AppCompat.Light.ActionBar.TabText">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Base.Widget.AppCompat.Light.ActionBar.TabView">
+    </style>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.ActionButton"/>
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.ActionMode"/>
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.ActivityChooserView"/>
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.ListView.DropDown"/>
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Base.Widget.AppCompat.Light.PopupMenu">
+    </style>
+    <style name="Widget.AppCompat.Light.PopupMenu.Overflow" parent="Base.Widget.AppCompat.Light.PopupMenu.Overflow">
+    </style>
+    <style name="Widget.AppCompat.Light.SearchView" parent="Widget.AppCompat.SearchView"/>
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Spinner.DropDown.ActionBar"/>
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Base.Widget.AppCompat.ListPopupWindow">
+    </style>
+    <style name="Widget.AppCompat.ListView" parent="Base.Widget.AppCompat.ListView"/>
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Base.Widget.AppCompat.ListView.DropDown"/>
+    <style name="Widget.AppCompat.ListView.Menu" parent="Base.Widget.AppCompat.ListView.Menu">
+    </style>
+    <style name="Widget.AppCompat.PopupMenu" parent="Base.Widget.AppCompat.PopupMenu">
+    </style>
+    <style name="Widget.AppCompat.PopupMenu.Overflow" parent="Base.Widget.AppCompat.PopupMenu.Overflow">
+    </style>
+    <style name="Widget.AppCompat.PopupWindow" parent="Base.Widget.AppCompat.PopupWindow">
+    </style>
+    <style name="Widget.AppCompat.ProgressBar" parent="Base.Widget.AppCompat.ProgressBar">
+    </style>
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Base.Widget.AppCompat.ProgressBar.Horizontal">
+    </style>
+    <style name="Widget.AppCompat.RatingBar" parent="Base.Widget.AppCompat.RatingBar"/>
+    <style name="Widget.AppCompat.SearchView" parent="Base.Widget.AppCompat.SearchView"/>
+    <style name="Widget.AppCompat.SearchView.ActionBar" parent="Base.Widget.AppCompat.SearchView.ActionBar"/>
+    <style name="Widget.AppCompat.Spinner" parent="Base.Widget.AppCompat.Spinner"/>
+    <style name="Widget.AppCompat.Spinner.DropDown"/>
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Base.Widget.AppCompat.Spinner.DropDown.ActionBar"/>
+    <style name="Widget.AppCompat.Spinner.Underlined" parent="Base.Widget.AppCompat.Spinner.Underlined"/>
+    <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
+    <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
+    <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation"/>
+</resources>
